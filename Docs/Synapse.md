@@ -14,7 +14,10 @@ Partition Strategy
 SQL Database
 https://docs.microsoft.com/en-us/azure/architecture/best-practices/data-partitioning-strategies
 
-Synapse Optimisation
+Synapse Optimzation
 
 https://docs.microsoft.com/en-us/azure/synapse-analytics/sql-data-warehouse/sql-data-warehouse-best-practices
+
+Cosmodb Optimzation
+https://docs.microsoft.com/en-us/learn/modules/monitor-and-scale-cosmos-db/
 
