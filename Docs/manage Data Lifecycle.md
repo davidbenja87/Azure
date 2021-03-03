@@ -19,3 +19,6 @@ Filter set - apply lifecycle specfic folder in the container if it requires
 
 
 We can implement life cycle managment via portal,powershll, arm template. Life cycle managment will not reflect immediately, it need to wait for next cycle
+
+
+https://docs.microsoft.com/en-us/azure/storage/blobs/storage-lifecycle-management-concepts?tabs=azure-portal
