@@ -18,4 +18,4 @@ Filter set - apply lifecycle specfic folder in the container if it requires
 ![image](https://user-images.githubusercontent.com/38088886/109763276-c5240280-7be9-11eb-8b64-dcdb0f62af48.png)
 
 
-We can implement life cycle managment via portal,powershll, arm template
+We can implement life cycle managment via portal,powershll, arm template. Life cycle managment will not reflect immediately, it need to wait for next cycle
