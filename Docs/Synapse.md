@@ -26,4 +26,8 @@ DataLake gen2 Optimization
 
 https://docs.microsoft.com/en-us/azure/storage/blobs/data-lake-storage-performance-tuning-guidance
 
+Databricks best practice
+
+https://docs.microsoft.com/en-us/learn/modules/describe-azure-databricks-best-practices/
+
 
