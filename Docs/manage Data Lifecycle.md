@@ -2,6 +2,9 @@ Life cycle managment of files in Blob stroage
 
 ![image](https://user-images.githubusercontent.com/38088886/109761513-1632f700-7be8-11eb-9ccf-4c2fe1059943.png)
 
+File moved to Archive tier, will not be directly accessible. It needs to move back to either hot/cool tier in order to access it.
+For moving the file back to hot/cool will take several hours
+
 Feature under blob service
 
 ![image](https://user-images.githubusercontent.com/38088886/109763042-68284c80-7be9-11eb-94aa-27bc441420c7.png)
