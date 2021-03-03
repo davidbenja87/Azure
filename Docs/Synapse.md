@@ -22,3 +22,8 @@ Cosmodb Optimzation
 
 https://docs.microsoft.com/en-us/learn/modules/monitor-and-scale-cosmos-db/
 
+DataLake gen2 Optimization
+
+https://docs.microsoft.com/en-us/azure/storage/blobs/data-lake-storage-performance-tuning-guidance
+
+
