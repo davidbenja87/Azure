@@ -9,5 +9,8 @@ Synapse Optimization
 * Scaling- Due to scaling in/out nature, use this feature during big data load/peak business hours
 * Passing and resuming compute- As storage and compute are decoupled, create some trigger to stop DWH to avoid compute cost when not in use.
 
+
+Partition Strategy
+
 https://docs.microsoft.com/en-us/azure/architecture/best-practices/data-partitioning-strategies
 
