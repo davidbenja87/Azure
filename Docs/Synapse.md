@@ -1,3 +1,10 @@
+Synapse Architechture
+
+Modern Datawarehouse
+
+![image](https://user-images.githubusercontent.com/38088886/109928775-b6a71b00-7cbd-11eb-9992-03083ed24afe.png)
+
+
 Synapse Optimization
 
 * For big dataloading,use Polybase instead of ADF,BCP
