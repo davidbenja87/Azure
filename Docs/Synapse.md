@@ -4,6 +4,11 @@ Modern Datawarehouse
 
 ![image](https://user-images.githubusercontent.com/38088886/109928775-b6a71b00-7cbd-11eb-9992-03083ed24afe.png)
 
+Synapse vs Dedicated sql pool
+
+![image](https://user-images.githubusercontent.com/38088886/110075741-32b36880-7d7b-11eb-8ee3-dbf351445dc6.png)
+
+
 
 Synapse Optimization
 
