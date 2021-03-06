@@ -1,5 +1,13 @@
 Synapse Architechture
 
+Three compenents in DWH.
+* Control node
+* Compute node
+* Storage node
+
+![image](https://user-images.githubusercontent.com/38088886/110204586-a46adf80-7e6b-11eb-89b7-220cc4de9da9.png)
+
+
 Modern Datawarehouse
 
 ![image](https://user-images.githubusercontent.com/38088886/109928775-b6a71b00-7cbd-11eb-9992-03083ed24afe.png)
