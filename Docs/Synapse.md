@@ -90,6 +90,10 @@ Polybase set up
 ![image](https://user-images.githubusercontent.com/38088886/110207139-7391a700-7e79-11eb-8d1f-b2e6260e1f22.png)
 
 
+**Security**
+
+![image](https://user-images.githubusercontent.com/38088886/110212644-4ef6f880-7e94-11eb-86ed-c2faac6b453e.png)
+
 
 Synapse workspace
 
