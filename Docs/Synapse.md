@@ -23,6 +23,13 @@ Storage
  
 ![image](https://user-images.githubusercontent.com/38088886/110204790-e8aaaf80-7e6c-11eb-9cc1-39e8b4852a3a.png)
 
+**Data Distribution & Sharding**
+
+In Datawarehouse, three techniques are used
+* Round robin - Data is evenly distributed based on order of rows. It is good for loading data into the staging table. Not good for join/group by, because it requires data transformation.
+* Replicate table- copy the cache of data in all the conmpute to avoid data tranfer among the node. This is good for small table involving in join and group by operation.
+* HASH table - distrubte the row based on the partition key. It is good for large table.
+
 
 
 Modern Datawarehouse
