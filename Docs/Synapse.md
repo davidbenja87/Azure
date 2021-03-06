@@ -64,6 +64,11 @@ Clustered B tree index
 
 **Data Migration**
 
+Best practice to load data into DWH
+* do n't ordered data while loading, use round robin for loading into DWH
+* use CTAS,because is uses parallel loading and also minimise logging (not all write are captured in transaction logging)
+*
+
 Synapse workspace
 
 Difference between SQL dedicated pool vs serverless pool
