@@ -1,4 +1,4 @@
-Synapse Architechture
+**Synapse Architechture******
 
 Three compenents in DWH.
 * Control node
@@ -62,6 +62,7 @@ Clustered B tree index
 * No data compression
 * secondary index can be created
 
+**Data Migration**
 
 Synapse workspace
 
