@@ -9,6 +9,16 @@ Synapse vs Dedicated sql pool
 ![image](https://user-images.githubusercontent.com/38088886/110075741-32b36880-7d7b-11eb-8ee3-dbf351445dc6.png)
 
 
+Synapse workspace
+
+Difference between SQL dedicated pool vs serverless pool
+* you can query the data available in SQL dedicated pool, but can't query from external storage.
+* In serverless pool, you can query external storage like blob, spark pool. This is good for ad-hoc query
+
+![image](https://user-images.githubusercontent.com/38088886/110197960-d61d7f80-7e46-11eb-99fd-e7b9bca4cd13.png)
+
+
+
 
 Synapse Optimization
 
