@@ -100,6 +100,9 @@ Network security
 Data protection
  Transparnet layer security, encrypts data in motion (client <-> server)
  Transparent data encryption (TDE) encrypts the data at rest
+ 
+Dynamic data masking
+ * It masks the data not encrypt it. so you can have real data and less privilage user can see the hided version of the data
 
 
 ![image](https://user-images.githubusercontent.com/38088886/110212644-4ef6f880-7e94-11eb-86ed-c2faac6b453e.png)
