@@ -30,6 +30,11 @@ In Datawarehouse, three techniques are used
 * Replicate table- copy the cache of data in all the conmpute to avoid data tranfer among the node. This is good for small table involving in join and group by operation.
 * HASH table - distrubte the row based on the partition key. It is good for large table.
 
+Good Hash key
+
+![image](https://user-images.githubusercontent.com/38088886/110205297-24df0f80-7e6f-11eb-9cdf-3d51083525b9.png)
+
+![image](https://user-images.githubusercontent.com/38088886/110205307-32949500-7e6f-11eb-9544-144be910b8a0.png)
 
 
 Modern Datawarehouse
