@@ -77,9 +77,14 @@ Single client loading method
  * BCP
  * This can add some parallel processing mean submit multiple BCP but bottleneck at the control node
 
+![image](https://user-images.githubusercontent.com/38088886/110206985-f8c88c00-7e78-11eb-9a36-c8c1e0f99e5b.png)
+
+
 Parallel reader loading method
 * polybase - Read data from Storage account and loads content into DWH
 * It bypassess control node and loads directly into compute node
+Load with polybase
+![image](https://user-images.githubusercontent.com/38088886/110207001-07af3e80-7e79-11eb-8301-c6b76b8a0a1f.png)
 
 
 Synapse workspace
