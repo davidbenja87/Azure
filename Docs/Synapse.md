@@ -111,7 +111,11 @@ Dynamic data masking
 
 Access Managment
  * Authentication - authenticates your identity
- * Authorisation - once authenicated, verifies the access control
+    Sql authentication
+    Active directory authentication - centrally managed identity in AAD.
+ * Authorization - once authenicated, verifies the access control
+    row level security -control access to row based on the role of the user.
+    column level security - control access to column based on the role of the user.
 
 
 ![image](https://user-images.githubusercontent.com/38088886/110212644-4ef6f880-7e94-11eb-86ed-c2faac6b453e.png)
