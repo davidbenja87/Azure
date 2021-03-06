@@ -51,8 +51,10 @@ Clustered column store index
 * store and organise data into column
 * Highly compressed. Because it stores data into column, so it packs repeated value in the column
 * Stored data as segment 1 Million row.
+* No secondary index. as already stores the data as column
 
 Heap
+* No index
 
 
 Synapse workspace
