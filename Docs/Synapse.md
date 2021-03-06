@@ -57,6 +57,11 @@ Heap
 * No index on the data. But it allow secondary index
 * No data compression
 
+Clustered B tree index
+* sorted index is stored on the data, means in actual physical table
+* No data compression
+* secondary index can be created
+
 
 Synapse workspace
 
