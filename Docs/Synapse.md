@@ -92,6 +92,16 @@ Polybase set up
 
 **Security**
 
+Network security
+ Firewall
+ selected virtual network
+ private endpoint
+
+Data protection
+ Transparnet layer security, encrypts data in motion (client <-> server)
+ Transparent data encryption (TDE) encrypts the data at rest
+
+
 ![image](https://user-images.githubusercontent.com/38088886/110212644-4ef6f880-7e94-11eb-86ed-c2faac6b453e.png)
 
 
