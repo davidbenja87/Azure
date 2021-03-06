@@ -45,6 +45,15 @@ Synapse vs Dedicated sql pool
 
 ![image](https://user-images.githubusercontent.com/38088886/110075741-32b36880-7d7b-11eb-8ee3-dbf351445dc6.png)
 
+**Table type**
+
+Clustered column store index
+* store and organise data into column
+* Highly compressed. Because it stores data into column, so it packs repeated value in the column
+* Stored data as segment 1 Million row.
+
+Heap
+
 
 Synapse workspace
 
