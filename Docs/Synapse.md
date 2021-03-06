@@ -77,6 +77,11 @@ Single client loading method
  * BCP
  * This can add some parallel processing mean submit multiple BCP but bottleneck at the control node
 
+Parallel reader loading method
+* polybase - Read data from Storage account and loads content into DWH
+* It bypassess control node and loads directly into compute node
+
+
 Synapse workspace
 
 Difference between SQL dedicated pool vs serverless pool
