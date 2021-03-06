@@ -18,6 +18,11 @@ Compute node:
 ![image](https://user-images.githubusercontent.com/38088886/110204644-0d525780-7e6c-11eb-9bfb-eb667c98e6a6.png)
 
 
+Storage
+ Totally data is distributed into 60 database
+ 
+![image](https://user-images.githubusercontent.com/38088886/110204790-e8aaaf80-7e6c-11eb-9cc1-39e8b4852a3a.png)
+
 
 
 Modern Datawarehouse
