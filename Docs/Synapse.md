@@ -5,7 +5,19 @@ Three compenents in DWH.
 * Compute node
 * Storage node
 
+Control node:
+  User submits code into control node. 
+  Control node has MPP engine to submit queries parallel to the compute node
+  
 ![image](https://user-images.githubusercontent.com/38088886/110204586-a46adf80-7e6b-11eb-89b7-220cc4de9da9.png)
+
+Compute node:
+ Compute node maps to the data distribution and runs parallelly.
+ There is an internal service DMS which is used to transfer data between compute node to do data process.
+
+![image](https://user-images.githubusercontent.com/38088886/110204644-0d525780-7e6c-11eb-9bfb-eb667c98e6a6.png)
+
+
 
 
 Modern Datawarehouse
