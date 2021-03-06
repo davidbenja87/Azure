@@ -86,6 +86,10 @@ Parallel reader loading method
 Load with polybase
 ![image](https://user-images.githubusercontent.com/38088886/110207001-07af3e80-7e79-11eb-8301-c6b76b8a0a1f.png)
 
+Polybase set up
+![image](https://user-images.githubusercontent.com/38088886/110207139-7391a700-7e79-11eb-8d1f-b2e6260e1f22.png)
+
+
 
 Synapse workspace
 
