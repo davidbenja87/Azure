@@ -67,7 +67,15 @@ Clustered B tree index
 Best practice to load data into DWH
 * do n't ordered data while loading, use round robin for loading into DWH
 * use CTAS,because is uses parallel loading and also minimise logging (not all write are captured in transaction logging)
-*
+
+Loading method
+=================
+
+Single client loading method
+ * SSIS
+ * Azure Data Factory
+ * BCP
+ * This can add some parallel processing mean submit multiple BCP but bottleneck at the control node
 
 Synapse workspace
 
