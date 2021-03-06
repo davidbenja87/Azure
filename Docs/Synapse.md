@@ -54,7 +54,8 @@ Clustered column store index
 * No secondary index. as already stores the data as column
 
 Heap
-* No index
+* No index on the data. But it allow secondary index
+* No data compression
 
 
 Synapse workspace
