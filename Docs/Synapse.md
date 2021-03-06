@@ -109,6 +109,10 @@ Dynamic data masking
  * random - entire column is replaced with randon number between the specified range
  * credit card - shows only last 4 character
 
+Access Managment
+ * Authentication - authenticates your identity
+ * Authorisation - once authenicated, verifies the access control
+
 
 ![image](https://user-images.githubusercontent.com/38088886/110212644-4ef6f880-7e94-11eb-86ed-c2faac6b453e.png)
 
