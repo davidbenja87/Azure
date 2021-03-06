@@ -103,6 +103,11 @@ Data protection
  
 Dynamic data masking
  * It masks the data not encrypt it. so you can have real data and less privilage user can see the hided version of the data
+ * Default - applies to any data type. completely mask the data
+ * partial - shows start and end char,remaining will be masked
+ * email -shows the first char and remaining will be masked
+ * random - entire column is replaced with randon number between the specified range
+ * credit card - shows only last 4 character
 
 
 ![image](https://user-images.githubusercontent.com/38088886/110212644-4ef6f880-7e94-11eb-86ed-c2faac6b453e.png)
