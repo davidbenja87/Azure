@@ -7,3 +7,4 @@ Delta lake
 Optimization
 * File compaction
 * Data pruning
+* Performance optimization via delta caching
