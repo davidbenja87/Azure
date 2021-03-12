@@ -27,5 +27,10 @@ Column Family Database
 
 ![image](https://user-images.githubusercontent.com/38088886/110891716-79104680-82ea-11eb-9081-d06a8d0967f3.png)
 
+Data Analalytics
+
+![image](https://user-images.githubusercontent.com/38088886/110892003-1e2b1f00-82eb-11eb-8579-6f5d0224c58f.png)
+
+
 
 
