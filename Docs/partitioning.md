@@ -22,3 +22,7 @@ Functional partitioning
 ![image](https://user-images.githubusercontent.com/38088886/110895440-af04f900-82f1-11eb-96d2-3e6d0c761bae.png)
 
 
+Patitioning consideration
+
+
+![image](https://user-images.githubusercontent.com/38088886/110895964-8fba9b80-82f2-11eb-9e6b-21373000355c.png)
