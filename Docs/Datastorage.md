@@ -32,5 +32,11 @@ Data Analalytics
 ![image](https://user-images.githubusercontent.com/38088886/110892003-1e2b1f00-82eb-11eb-8579-6f5d0224c58f.png)
 
 
+Object storage
+
+![image](https://user-images.githubusercontent.com/38088886/110892149-6c402280-82eb-11eb-9258-ef6d9eef49f6.png)
+
+
+
 
 
