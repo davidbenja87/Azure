@@ -26,5 +26,13 @@ Avoid Hot partition at query
 
 ![image](https://user-images.githubusercontent.com/38088886/110903155-ec23b800-82fe-11eb-8a1c-9303ad18c3e9.png)
 
+Single vs Cross query partition
+
+Single
+
+![image](https://user-images.githubusercontent.com/38088886/110903397-4a509b00-82ff-11eb-9aac-61642a88716e.png)
+
+
+
 
 
