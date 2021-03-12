@@ -36,6 +36,11 @@ Object storage
 
 ![image](https://user-images.githubusercontent.com/38088886/110892149-6c402280-82eb-11eb-9258-ef6d9eef49f6.png)
 
+Shared files
+
+![image](https://user-images.githubusercontent.com/38088886/110892321-bf19da00-82eb-11eb-9926-e412d8be11f4.png)
+
+
 
 
 
