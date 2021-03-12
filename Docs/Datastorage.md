@@ -10,3 +10,8 @@ Why we need different data stroage?
 RDBMS
 
 ![image](https://user-images.githubusercontent.com/38088886/110890175-68aa9c80-82e7-11eb-92c8-712da79da9fc.png)
+
+Key value pair
+
+![image](https://user-images.githubusercontent.com/38088886/110890468-fdad9580-82e7-11eb-8619-e4ec170059b8.png)
+
