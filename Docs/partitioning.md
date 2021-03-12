@@ -29,4 +29,6 @@ Patitioning consideration
 
 CosmoDB partition
 
-![image](https://user-images.githubusercontent.com/38088886/110900360-8a614f00-82fa-11eb-85c5-d8815af37f0a.png)
+
+![image](https://user-images.githubusercontent.com/38088886/110900706-18d5d080-82fb-11eb-9ef2-8e097b4b6641.png)
+
