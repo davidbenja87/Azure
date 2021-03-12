@@ -25,4 +25,4 @@ Functional partitioning
 Patitioning consideration
 
 
-![image](https://user-images.githubusercontent.com/38088886/110895964-8fba9b80-82f2-11eb-9e6b-21373000355c.png)
+![image](https://user-images.githubusercontent.com/38088886/110896071-be387680-82f2-11eb-855c-d5bba0f5db0b.png)
