@@ -23,5 +23,9 @@ Graph Database
 
 ![image](https://user-images.githubusercontent.com/38088886/110891081-26825a80-82e9-11eb-8716-e5cdbda9694e.png)
 
+Column Family Database
+
+![image](https://user-images.githubusercontent.com/38088886/110891716-79104680-82ea-11eb-9081-d06a8d0967f3.png)
+
 
 
