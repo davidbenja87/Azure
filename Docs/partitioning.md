@@ -26,3 +26,7 @@ Patitioning consideration
 
 
 ![image](https://user-images.githubusercontent.com/38088886/110896071-be387680-82f2-11eb-855c-d5bba0f5db0b.png)
+
+CosmoDB partition
+
+![image](https://user-images.githubusercontent.com/38088886/110900202-4e2dee80-82fa-11eb-8e21-fb9b41120ab5.png)
