@@ -40,6 +40,11 @@ Shared files
 
 ![image](https://user-images.githubusercontent.com/38088886/110892321-bf19da00-82eb-11eb-9926-e412d8be11f4.png)
 
+Time series data
+
+![image](https://user-images.githubusercontent.com/38088886/110892491-115afb00-82ec-11eb-96a6-6d900a6f0854.png)
+
+
 
 
 
