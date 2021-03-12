@@ -24,7 +24,7 @@ Avoid Hot partition at store
 Avoid Hot partition at query
 * If the data is split by year, most recent data sits in one partition, All the query which require to get last one year data will overflow on one partition.
 
-![image](https://user-images.githubusercontent.com/38088886/110903015-ad8dfd80-82fe-11eb-847b-159d78c48f6d.png)
+![image](https://user-images.githubusercontent.com/38088886/110903155-ec23b800-82fe-11eb-8a1c-9303ad18c3e9.png)
 
 
 
