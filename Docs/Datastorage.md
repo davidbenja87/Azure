@@ -52,6 +52,11 @@ Search Engine Data
 ![image](https://user-images.githubusercontent.com/38088886/110892912-da391980-82ec-11eb-81c0-33dbb1cb2727.png)
 
 
+How to choose DataStorage?
+
+![image](https://user-images.githubusercontent.com/38088886/110893556-20db4380-82ee-11eb-8869-742edc8e1d0d.png)
+
+
 
 
 
