@@ -17,3 +17,8 @@ Vertical partitioning
 
 ![image](https://user-images.githubusercontent.com/38088886/110895160-2423fe80-82f1-11eb-83e9-f3164a3e8c05.png)
 
+Functional partitioning
+
+![image](https://user-images.githubusercontent.com/38088886/110895440-af04f900-82f1-11eb-96d2-3e6d0c761bae.png)
+
+
