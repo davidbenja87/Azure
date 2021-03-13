@@ -38,4 +38,3 @@ Stream processing, we receive data as events with timestamp. To process it, we n
 ![image](https://user-images.githubusercontent.com/38088886/111032997-f29d5700-8406-11eb-99bb-79cbccc0b6f0.png)
 
 
-![image](https://user-images.githubusercontent.com/38088886/111032966-c8e43000-8406-11eb-8914-a26cfcd3c17c.png)
