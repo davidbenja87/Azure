@@ -52,7 +52,9 @@ Database as serving layer
 
 ![image](https://user-images.githubusercontent.com/38088886/111033315-8cb1cf00-8408-11eb-8867-fb33906f7a97.png)
 
+Sending Alert
 
+![image](https://user-images.githubusercontent.com/38088886/111033357-c71b6c00-8408-11eb-8393-0da067482e73.png)
 
 
 
