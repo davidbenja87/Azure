@@ -76,5 +76,10 @@ Backup retention period
 
 ![image](https://user-images.githubusercontent.com/38088886/111027321-75aeb500-83e7-11eb-993e-683a4c635002.png)
 
+Backup and restore
+
+![image](https://user-images.githubusercontent.com/38088886/111027361-b4dd0600-83e7-11eb-9117-e881cd3676b4.png)
+
+
 
 
