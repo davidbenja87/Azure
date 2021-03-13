@@ -124,6 +124,9 @@ Multi model API
 
 * Global data distribution is used for disaster recovery 
 
+CosmosDB HA and DR options
+
+![image](https://user-images.githubusercontent.com/38088886/111020311-dffe3000-83bc-11eb-9a02-0fd8cf404b2c.png)
 
 
 
