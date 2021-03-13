@@ -94,6 +94,11 @@ Conflict Resolution
 ![image](https://user-images.githubusercontent.com/38088886/111018083-dbcb1600-83ae-11eb-9493-1e8be2e12947.png)
 
 
+**Data consistency**
+
+![image](https://user-images.githubusercontent.com/38088886/111018519-1e8ded80-83b1-11eb-83fb-bdf2e0402ee0.png)
+
+
 
 
 
