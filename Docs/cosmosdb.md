@@ -37,6 +37,17 @@ Cross
 ![image](https://user-images.githubusercontent.com/38088886/110903627-a3203380-82ff-11eb-8ae3-a42bb60f1eff.png)
 
 
+Composite key
+
+* In one document we can store maximum 20 MB of data. In our single partition example, we partition the data by Username, meaning all relevant information regarding single user will be stored in one logical partition. If a user has more than 20 MB of data, then it will fail
+* Also In one logical partition, you can have maximum 20 GB of data,but you can have collection of a documents in a single logical partiton.
+* this is why we need composite key, in our example username-mmddyyyy. so that data will be scaled.
+
+![image](https://user-images.githubusercontent.com/38088886/111015794-75d89180-83a2-11eb-85f8-3894c1201c3a.png)
+
+
+
+
 
 
 
