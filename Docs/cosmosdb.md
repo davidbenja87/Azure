@@ -67,6 +67,20 @@ Partition best practice
 ![image](https://user-images.githubusercontent.com/38088886/111016477-298f5080-83a6-11eb-836b-b1cb32abd031.png)
 
 
+Multi-Master (Multi write)
+
+* In our previous, Multi READ example, User from japan, tries to WRITE some record, it can't do it japan as it is READ only, it needs to go west us and write it there and again it needs to replicate in japan, so that user will see an updated record.
+* To avoid this, cosmosdb provide MULTI-WRITE option, so that any user from anywhere they can write in thier own region and it will automatically updated into other region.
+
+![image](https://user-images.githubusercontent.com/38088886/111016902-46c51e80-83a8-11eb-8e37-2b5447ebefcc.png)
+
+Conflict Resolution
+
+* if two user from two different region WRITE the same record at the same time, which one will be updated. To decide this, cosmosdb provide us conflict resolution.
+![image](https://user-images.githubusercontent.com/38088886/111017144-80e2f000-83a9-11eb-9500-62147e393244.png)
+ 
+
+
 
 
 
