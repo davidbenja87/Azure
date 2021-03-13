@@ -85,4 +85,7 @@ Manage backup using portal
 ![image](https://user-images.githubusercontent.com/38088886/111027430-303eb780-83e8-11eb-9990-570349edbb8b.png)
 
 
+Restore database steps
+
+![image](https://user-images.githubusercontent.com/38088886/111027506-a3e0c480-83e8-11eb-9911-dbe9c2eadbb2.png)
 
