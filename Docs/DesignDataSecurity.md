@@ -43,5 +43,10 @@ Shared access signature(SAS)
 
 ![image](https://user-images.githubusercontent.com/38088886/111034939-d520bb00-840f-11eb-9caa-be69ce446b91.png)
 
+* SAS can be used in conjunction with storage access policy
+
+![image](https://user-images.githubusercontent.com/38088886/111035047-4f513f80-8410-11eb-9cd5-f4dbbed2d08e.png)
+
+
 
 
