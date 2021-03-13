@@ -13,8 +13,15 @@ Purchase model
 * V-core
 * DTU
 
+Compute tier
+* provisioned
+* serverless
+
 ![image](https://user-images.githubusercontent.com/38088886/111021283-19d23500-83c3-11eb-87f9-01ea8b47cd35.png)
 
 ![image](https://user-images.githubusercontent.com/38088886/111021321-5736c280-83c3-11eb-8db0-d23790c87377.png)
+
+![image](https://user-images.githubusercontent.com/38088886/111021489-91ed2a80-83c4-11eb-852f-47395cb39e16.png)
+
 
 
