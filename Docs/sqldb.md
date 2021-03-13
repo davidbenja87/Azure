@@ -39,4 +39,7 @@ Azure sql db High availablitly
 
 ![image](https://user-images.githubusercontent.com/38088886/111026162-d8e91900-83e0-11eb-9bb6-bd81b8b34286.png)
 
+![image](https://user-images.githubusercontent.com/38088886/111026354-ae4b9000-83e1-11eb-9668-61ca43b0c9d7.png)
+
+
 
