@@ -14,3 +14,13 @@ Databricks
 Choosing pipeline orchestration service
 
 ![image](https://user-images.githubusercontent.com/38088886/111029062-89134d80-83f2-11eb-9af7-e40803fe0aeb.png)
+
+
+Data ingestion tool
+
+Azcopy 
+* works in both windows and linux environment
+* supports concurrent processing
+* resume from where it left when failed
+
+![image](https://user-images.githubusercontent.com/38088886/111029252-a5fc5080-83f3-11eb-9eac-60e6999a8973.png)
