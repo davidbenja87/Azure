@@ -37,3 +37,8 @@ Sqoop
 command line tool for data ingestion
 
 ![image](https://user-images.githubusercontent.com/38088886/111029534-09d34900-83f5-11eb-8cd5-bcb422e75282.png)
+
+
+DataLake architechture tools
+![image](https://user-images.githubusercontent.com/38088886/111029604-7b12fc00-83f5-11eb-8c42-b77d3a0b846f.png)
+
