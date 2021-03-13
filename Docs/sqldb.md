@@ -80,6 +80,9 @@ Backup and restore
 
 ![image](https://user-images.githubusercontent.com/38088886/111027361-b4dd0600-83e7-11eb-9117-e881cd3676b4.png)
 
+Manage backup using portal
+
+![image](https://user-images.githubusercontent.com/38088886/111027430-303eb780-83e8-11eb-9990-570349edbb8b.png)
 
 
 
