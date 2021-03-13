@@ -10,3 +10,7 @@ Batch and stream processing data
 Databricks
 
 ![image](https://user-images.githubusercontent.com/38088886/111028973-17d39a80-83f2-11eb-9d91-8557caa3b3a0.png)
+
+Choosing pipeline orchestration service
+
+![image](https://user-images.githubusercontent.com/38088886/111029062-89134d80-83f2-11eb-9af7-e40803fe0aeb.png)
