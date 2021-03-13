@@ -32,3 +32,14 @@ Access key -
 * root key
 * its like password. with this key, you can do anything. this will have full privilege
 
+Shared access signature(SAS)
+* give least priviledge
+* with start and end time
+* with specifi ip address
+* can create account level / container level
+
+![image](https://user-images.githubusercontent.com/38088886/111034791-22e8f380-840f-11eb-835a-0bcf521d3cbc.png)
+
+![image](https://user-images.githubusercontent.com/38088886/111034831-490e9380-840f-11eb-9f3a-4a7b0b0fd27a.png)
+
+
