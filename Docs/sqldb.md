@@ -23,5 +23,9 @@ Compute tier
 
 ![image](https://user-images.githubusercontent.com/38088886/111021489-91ed2a80-83c4-11eb-852f-47395cb39e16.png)
 
+**Horizontal vs Vertical Scaling**
+
+
+![image](https://user-images.githubusercontent.com/38088886/111022001-f067d800-83c7-11eb-946e-c4f610dc8109.png)
 
 
