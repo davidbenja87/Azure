@@ -15,3 +15,8 @@ Data Lake HA vs Disaster recovery
 Locally redudant storage
 * all the replica is stored in one availablity zone (Physical Datacenter)
 ![image](https://user-images.githubusercontent.com/38088886/111019558-e63ddd80-83b7-11eb-9f5b-b1a944010343.png)
+
+Zone redudant stroage
+
+![image](https://user-images.githubusercontent.com/38088886/111019605-2e5d0000-83b8-11eb-934e-258e81be230a.png)
+
