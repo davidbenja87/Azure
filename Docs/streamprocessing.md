@@ -22,3 +22,7 @@ What is windows function?
 Stream processing, we receive data as events with timestamp. To process it, we need to create bucket for doing some operations.
 
 ![image](https://user-images.githubusercontent.com/38088886/111032635-22e3f600-8405-11eb-8c8a-5a0c5dcf67ae.png)
+
+**Tumbling window**
+
+![image](https://user-images.githubusercontent.com/38088886/111032767-bfa69380-8405-11eb-9d0a-9a95b72948e6.png)
