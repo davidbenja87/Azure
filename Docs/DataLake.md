@@ -43,3 +43,7 @@ Read acccess Geo zone redudant stroage
 * This will give both Disaster recover (immediate READ) and also High Availabilty.
 
 ![image](https://user-images.githubusercontent.com/38088886/111019823-7a5c7480-83b9-11eb-84de-bbcefe6484cb.png)
+
+
+![image](https://user-images.githubusercontent.com/38088886/111019854-b5f73e80-83b9-11eb-9f1b-172b34d13103.png)
+
