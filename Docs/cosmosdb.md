@@ -1,4 +1,4 @@
-CosmosDB
+**#CosmosDB#**
 
 * Nosql DB
 * Computation is calculated based on Request Unit(RU)/ Throughput
