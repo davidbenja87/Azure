@@ -39,3 +39,7 @@ Read access Geo redudant storage
 
 ![image](https://user-images.githubusercontent.com/38088886/111019752-12a62980-83b9-11eb-93bf-682807aa1144.png)
 
+Read acccess Geo zone redudant stroage
+* This will give both Disaster recover (immediate READ) and also High Availabilty.
+
+![image](https://user-images.githubusercontent.com/38088886/111019823-7a5c7480-83b9-11eb-84de-bbcefe6484cb.png)
