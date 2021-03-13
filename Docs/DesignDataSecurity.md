@@ -51,6 +51,13 @@ Active Directory Identities
 
 ![image](https://user-images.githubusercontent.com/38088886/111035170-136aaa00-8411-11eb-94d1-5b4328f1862e.png)
 
+Role based access control
+
+![image](https://user-images.githubusercontent.com/38088886/111035279-968c0000-8411-11eb-90a5-068aa76a5d3c.png)
+
+![image](https://user-images.githubusercontent.com/38088886/111035322-d521ba80-8411-11eb-99c7-32e5b7ee8f1e.png)
+
+
 
 
 
