@@ -17,6 +17,12 @@ Locally redudant storage
 ![image](https://user-images.githubusercontent.com/38088886/111019558-e63ddd80-83b7-11eb-9f5b-b1a944010343.png)
 
 Zone redudant stroage
-
+* This is true High availablity. If one zone failed, the request will be picked up by other AZ
+* This one will not have DR. if one region fails, then everyting fails.
 ![image](https://user-images.githubusercontent.com/38088886/111019605-2e5d0000-83b8-11eb-934e-258e81be230a.png)
 
+Geo redudant storage
+
+* This serves Disaster recovery. If one region failed, data can be backed up from another region.
+
+![image](https://user-images.githubusercontent.com/38088886/111019639-9ad7ff00-83b8-11eb-90ab-f34d871321be.png)
