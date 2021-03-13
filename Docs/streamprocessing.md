@@ -26,3 +26,7 @@ Stream processing, we receive data as events with timestamp. To process it, we n
 **Tumbling window**
 
 ![image](https://user-images.githubusercontent.com/38088886/111032767-bfa69380-8405-11eb-9d0a-9a95b72948e6.png)
+
+**Hopping window**
+
+![image](https://user-images.githubusercontent.com/38088886/111032875-4ce9e800-8406-11eb-9f2a-40c744a4bf40.png)
