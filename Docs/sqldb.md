@@ -57,3 +57,6 @@ configure geo-replication
 
 ![image](https://user-images.githubusercontent.com/38088886/111026803-52ced180-83e4-11eb-8e51-8d5dbdd3f94b.png)
 
+![image](https://user-images.githubusercontent.com/38088886/111026819-709c3680-83e4-11eb-9976-1fe809f34a11.png)
+
+
