@@ -12,3 +12,8 @@ Processing tool
 Analytical data store
 
 ![image](https://user-images.githubusercontent.com/38088886/111032340-95ec6d00-8403-11eb-95c8-4837d0491632.png)
+
+Stream analytics data flow
+
+![image](https://user-images.githubusercontent.com/38088886/111032427-1743ff80-8404-11eb-9647-40822a9bbd64.png)
+
