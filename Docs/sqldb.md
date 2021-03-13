@@ -72,5 +72,9 @@ Storage and security of backup files
 
 ![image](https://user-images.githubusercontent.com/38088886/111027278-249ec100-83e7-11eb-95b3-e13c148b51f5.png)
 
+Backup retention period
+
+![image](https://user-images.githubusercontent.com/38088886/111027321-75aeb500-83e7-11eb-993e-683a4c635002.png)
+
 
 
