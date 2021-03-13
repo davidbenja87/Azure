@@ -160,6 +160,9 @@ Restore DWH
 ![image](https://user-images.githubusercontent.com/38088886/111027943-4732d900-83eb-11eb-9e48-b81d6083d4be.png)
 
 
+Synapse sql replicate restore point back to the paired region
+
+![image](https://user-images.githubusercontent.com/38088886/111028045-ef48a200-83eb-11eb-8cb0-5b305499cc3d.png)
 
 
 Partition Strategy
