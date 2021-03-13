@@ -132,6 +132,9 @@ CosmosDB Backup strategy
 
 ![image](https://user-images.githubusercontent.com/38088886/111020400-66b30d00-83bd-11eb-8775-b26b9952745d.png)
 
+![image](https://user-images.githubusercontent.com/38088886/111020423-98c46f00-83bd-11eb-8ea4-5ebe2079a004.png)
+
+
 
 
 
