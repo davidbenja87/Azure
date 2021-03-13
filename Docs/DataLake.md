@@ -24,6 +24,7 @@ Zone redudant stroage
 Geo redudant storage
 
 * This serves Disaster recovery. If one region failed, data can be backed up from another region.
+* But atleast take an hour for application to become available
 
 ![image](https://user-images.githubusercontent.com/38088886/111019639-9ad7ff00-83b8-11eb-90ab-f34d871321be.png)
 
@@ -31,3 +32,10 @@ Geo zone redudant
 * This will give both high availablity and Disaster recovery.
 
 ![image](https://user-images.githubusercontent.com/38088886/111019693-d70b5f80-83b8-11eb-9fb0-7b3e636bdb73.png)
+
+Read access Geo redudant storage
+* This will give Disaster recovery.
+* If primary location is down, then you immediatley access the data from Secondary region
+
+![image](https://user-images.githubusercontent.com/38088886/111019752-12a62980-83b9-11eb-93bf-682807aa1144.png)
+
