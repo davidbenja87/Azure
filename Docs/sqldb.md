@@ -64,5 +64,8 @@ configure geo-replication
 ![image](https://user-images.githubusercontent.com/38088886/111027091-f8cf0b80-83e5-11eb-8d61-32acadaa53a6.png)
 
 
+**Database Backup**
+
+![image](https://user-images.githubusercontent.com/38088886/111027192-89a5e700-83e6-11eb-812d-dbbc748ed11c.png)
 
 
