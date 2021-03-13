@@ -26,3 +26,9 @@
 
 ![image](https://user-images.githubusercontent.com/38088886/111034585-4f504000-840e-11eb-952b-a3b176df2fc2.png)
 
+
+**Storage Account Authentication**
+Access key - 
+* root key
+* its like password. with this key, you can do anything. this will have full privilege
+
