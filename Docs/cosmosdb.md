@@ -79,6 +79,13 @@ Conflict Resolution
 * if two user from two different region WRITE the same record at the same time, which one will be updated. To decide this, cosmosdb provide us conflict resolution.
 ![image](https://user-images.githubusercontent.com/38088886/111017144-80e2f000-83a9-11eb-9500-62147e393244.png)
  
+ **Manual / Automatic failover**
+ 
+ * Use case 1 : In our case we have four READ/WRITE region, if one region fails automatically, cosmosdb repoint the user request to thier nearest region to serve thier request.
+ * Use case 2 : If we have one WRITE region (West US), three READ region. If user request to one of the READ region fails, then it redirects to the nearest region to serve thier request.
+ * Use case 3: what if one and ONLY WRITE region fails, then it comes to the picture Failover- either we manually point failover region or automatically tag the fail over region.
+ ![image](https://user-images.githubusercontent.com/38088886/111017425-57c35f00-83ab-11eb-8896-fd8ab726f04a.png)
+ 
 
 
 
