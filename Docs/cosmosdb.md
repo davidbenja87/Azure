@@ -120,6 +120,9 @@ Multi model API
 
 ![image](https://user-images.githubusercontent.com/38088886/111020161-c5778700-83bb-11eb-87f1-ad743061bb6f.png)
 
+![image](https://user-images.githubusercontent.com/38088886/111020220-28691e00-83bc-11eb-8f3b-0a38defa48d2.png)
+
+* Global data distribution is used for disaster recovery 
 
 
 
