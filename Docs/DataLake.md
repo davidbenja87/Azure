@@ -6,3 +6,7 @@ Difference between blob and data lake stroage
 DataLake architechture
 
 ![image](https://user-images.githubusercontent.com/38088886/111019224-c1486b00-83b5-11eb-9f8b-b8fddd707b32.png)
+
+
+Data Lake HA vs Disaster recovery
+![image](https://user-images.githubusercontent.com/38088886/111019292-24d29880-83b6-11eb-8ab5-1471a8737c93.png)
