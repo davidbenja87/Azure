@@ -42,4 +42,7 @@ Shared access signature(SAS)
 
 ![image](https://user-images.githubusercontent.com/38088886/111034831-490e9380-840f-11eb-9f3a-4a7b0b0fd27a.png)
 
+![image](https://user-images.githubusercontent.com/38088886/111034939-d520bb00-840f-11eb-9caa-be69ce446b91.png)
+
+
 
