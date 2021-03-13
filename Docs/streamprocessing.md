@@ -17,3 +17,8 @@ Stream analytics data flow
 
 ![image](https://user-images.githubusercontent.com/38088886/111032427-1743ff80-8404-11eb-9647-40822a9bbd64.png)
 
+
+What is windows function?
+Stream processing, we receive data as events with timestamp. To process it, we need to create bucket for doing some operations.
+
+![image](https://user-images.githubusercontent.com/38088886/111032635-22e3f600-8405-11eb-8c8a-5a0c5dcf67ae.png)
