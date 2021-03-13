@@ -41,5 +41,9 @@ Azure sql db High availablitly
 
 ![image](https://user-images.githubusercontent.com/38088886/111026354-ae4b9000-83e1-11eb-9668-61ca43b0c9d7.png)
 
+sql db zone redudancy
+![image](https://user-images.githubusercontent.com/38088886/111026461-49dd0080-83e2-11eb-86e8-b7a008528c02.png)
+
+
 
 
