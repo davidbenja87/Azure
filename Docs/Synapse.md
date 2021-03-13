@@ -152,6 +152,14 @@ Synapse Optimization
 **Datawarehouse backup**
 ![image](https://user-images.githubusercontent.com/38088886/111027898-00dd7a00-83eb-11eb-886a-113f2654d127.png)
 
+Taking restore points
+![image](https://user-images.githubusercontent.com/38088886/111027929-2ff3eb80-83eb-11eb-91f2-f1421a1e7595.png)
+
+Restore DWH
+
+![image](https://user-images.githubusercontent.com/38088886/111027943-4732d900-83eb-11eb-9e48-b81d6083d4be.png)
+
+
 
 
 Partition Strategy
