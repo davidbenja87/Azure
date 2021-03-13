@@ -144,6 +144,11 @@ Synapse Optimization
 * Passing and resuming compute- As storage and compute are decoupled, create some trigger to stop DWH to avoid compute cost when not in use.
 
 
+**Synapse Scaling**
+
+![image](https://user-images.githubusercontent.com/38088886/111022209-4a1cd200-83c9-11eb-885a-fc2c1ee41fce.png)
+
+
 Partition Strategy
 SQL Database
 https://docs.microsoft.com/en-us/azure/architecture/best-practices/data-partitioning-strategies
