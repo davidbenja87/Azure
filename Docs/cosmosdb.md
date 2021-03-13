@@ -116,6 +116,11 @@ Multi model API
 
 ![image](https://user-images.githubusercontent.com/38088886/111018909-d58b6880-83b3-11eb-828c-ba56f83e45c3.png)
 
+**Cosmos DB HA & DR**
+
+![image](https://user-images.githubusercontent.com/38088886/111020124-73366600-83bb-11eb-882d-c9814050012d.png)
+
+
 
 
 
