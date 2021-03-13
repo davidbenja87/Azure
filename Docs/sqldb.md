@@ -35,7 +35,7 @@ Horizontal scale out
 ![image](https://user-images.githubusercontent.com/38088886/111022133-dd093c80-83c8-11eb-89d9-9934832e0ded.png)
 
 
-Azure sql db High availablitly 
+**Azure sql db High availablitly** 
 
 ![image](https://user-images.githubusercontent.com/38088886/111026162-d8e91900-83e0-11eb-9bb6-bd81b8b34286.png)
 
@@ -45,5 +45,7 @@ sql db zone redudancy
 ![image](https://user-images.githubusercontent.com/38088886/111026461-49dd0080-83e2-11eb-86e8-b7a008528c02.png)
 
 
+**Disaster Recovery - Geo replication**
 
+![image](https://user-images.githubusercontent.com/38088886/111026684-75141f80-83e3-11eb-8049-e45e15bb309d.png)
 
