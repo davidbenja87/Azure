@@ -39,7 +39,7 @@ Cross
 
 Composite key
 
-* In one document we can store maximum 20 MB of data. In our single partition example, we partition the data by Username, meaning all relevant information regarding single user will be stored in one logical partition. If a user has more than 20 MB of data, then it will fail
+* In one document we can store maximum 20 MB of data. In our single partition example, we partition the data by Username, meaning all relevant information regarding single user will be stored in one document under onelogical partition. If a user has more than 20 MB of data, then it will fail. so we need to split user information into several small documents.
 * Also In one logical partition, you can have maximum 20 GB of data,but you can have collection of a documents in a single logical partiton.
 * this is why we need composite key, in our example username-mmddyyyy. so that data will be scaled.
 
