@@ -149,6 +149,11 @@ Synapse Optimization
 ![image](https://user-images.githubusercontent.com/38088886/111022209-4a1cd200-83c9-11eb-885a-fc2c1ee41fce.png)
 
 
+**Datawarehouse backup**
+![image](https://user-images.githubusercontent.com/38088886/111027898-00dd7a00-83eb-11eb-886a-113f2654d127.png)
+
+
+
 Partition Strategy
 SQL Database
 https://docs.microsoft.com/en-us/azure/architecture/best-practices/data-partitioning-strategies
