@@ -49,7 +49,7 @@ Shared access signature(SAS)
 
 Active Directory Identities
 
-![image](https://user-images.githubusercontent.com/38088886/111035104-bcfd6b80-8410-11eb-96eb-fea186cdcdf2.png)
+![image](https://user-images.githubusercontent.com/38088886/111035170-136aaa00-8411-11eb-94d1-5b4328f1862e.png)
 
 
 
