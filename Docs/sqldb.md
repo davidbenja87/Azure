@@ -53,3 +53,7 @@ configure geo-replication
 
 ![image](https://user-images.githubusercontent.com/38088886/111026744-d9cf7a00-83e3-11eb-8c23-c8ae371b6fcd.png)
 
+**Failover group**
+
+![image](https://user-images.githubusercontent.com/38088886/111026803-52ced180-83e4-11eb-8e51-8d5dbdd3f94b.png)
+
