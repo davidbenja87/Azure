@@ -46,6 +46,11 @@ Composite key
 ![image](https://user-images.githubusercontent.com/38088886/111015794-75d89180-83a2-11eb-85f8-3894c1201c3a.png)
 
 
+Partition best practice
+
+![image](https://user-images.githubusercontent.com/38088886/111016071-c3093300-83a3-11eb-8dde-7523ebe951fa.png)
+
+
 
 
 
