@@ -28,4 +28,9 @@ Compute tier
 
 ![image](https://user-images.githubusercontent.com/38088886/111022001-f067d800-83c7-11eb-946e-c4f610dc8109.png)
 
+Horizontal scale out
+
+![image](https://user-images.githubusercontent.com/38088886/111022091-94518380-83c8-11eb-93a9-4ad5b51c629f.png)
+
+
 
