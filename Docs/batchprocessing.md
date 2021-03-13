@@ -32,3 +32,8 @@ Distcp
 Sqoop
 * transfer data from RDBMS into HDFS
 ![image](https://user-images.githubusercontent.com/38088886/111029252-a5fc5080-83f3-11eb-9eac-60e6999a8973.png)
+
+
+command line tool for data ingestion
+
+![image](https://user-images.githubusercontent.com/38088886/111029534-09d34900-83f5-11eb-8cd5-bcb422e75282.png)
