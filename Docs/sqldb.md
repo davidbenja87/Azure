@@ -68,4 +68,9 @@ configure geo-replication
 
 ![image](https://user-images.githubusercontent.com/38088886/111027192-89a5e700-83e6-11eb-812d-dbbc748ed11c.png)
 
+Storage and security of backup files
+
+![image](https://user-images.githubusercontent.com/38088886/111027278-249ec100-83e7-11eb-95b3-e13c148b51f5.png)
+
+
 
