@@ -128,6 +128,11 @@ CosmosDB HA and DR options
 
 ![image](https://user-images.githubusercontent.com/38088886/111020311-dffe3000-83bc-11eb-9a02-0fd8cf404b2c.png)
 
+CosmosDB Backup strategy
+
+![image](https://user-images.githubusercontent.com/38088886/111020400-66b30d00-83bd-11eb-8775-b26b9952745d.png)
+
+
 
 
 
