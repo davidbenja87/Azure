@@ -1,4 +1,4 @@
-**#CosmosDB#**
+**CosmosDB**
 
 * Nosql DB
 * Computation is calculated based on Request Unit(RU)/ Throughput
@@ -11,7 +11,7 @@
 ![image](https://user-images.githubusercontent.com/38088886/110902123-43c12400-82fd-11eb-8e8f-716ee7d782b2.png)
 
 
-CosmosDB partition
+**CosmosDB partition**
 ![image](https://user-images.githubusercontent.com/38088886/110900838-4de22300-82fb-11eb-98de-da2c3778da27.png)
 
 
@@ -49,6 +49,23 @@ Composite key
 Partition best practice
 
 ![image](https://user-images.githubusercontent.com/38088886/111016071-c3093300-83a3-11eb-8dde-7523ebe951fa.png)
+
+**Global Distribution /Replication**
+
+* We can set up one primary region where data gets store and consumed by the user.
+* But if we have user from globally different region, then we might need to replicate the data in those region as well.
+* This will provide the users to READ the data from their own region. It reduce the latency.
+* One WRITE region and multiple READ region can be set.
+* When you set up multiple READ region, the same RU and Storage will be copied to all READ region. Need to be aware of the cost.
+* Apart from globally distribute region, you can also of data copied to the paried region. This will be useful for disaster recovery(DR) or High Availiblity(HA) of your application.
+* if our purpose to disaster recovery, then we need to use Region Pair.
+* If our purpose to give user to feel low latency, the choose global replication
+
+![image](https://user-images.githubusercontent.com/38088886/111016646-0b762000-83a7-11eb-9029-edc00a0f6125.png)
+
+
+![image](https://user-images.githubusercontent.com/38088886/111016477-298f5080-83a6-11eb-836b-b1cb32abd031.png)
+
 
 
 
