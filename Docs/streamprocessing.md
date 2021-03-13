@@ -48,5 +48,11 @@ simple Archtiecture
 
 ![image](https://user-images.githubusercontent.com/38088886/111033280-5411f580-8408-11eb-8651-46fc834baf31.png)
 
+Database as serving layer
+
+![image](https://user-images.githubusercontent.com/38088886/111033315-8cb1cf00-8408-11eb-8867-fb33906f7a97.png)
+
+
+
 
 
