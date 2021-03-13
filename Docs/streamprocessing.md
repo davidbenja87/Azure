@@ -65,4 +65,16 @@ Reference data
 ![image](https://user-images.githubusercontent.com/38088886/111033474-4a3cc200-8409-11eb-9554-c24539ea6c28.png)
 
 
+Lambda Architechture
+
+* Combining Both Batch and Stream data
+
+![image](https://user-images.githubusercontent.com/38088886/111033622-08f8e200-840a-11eb-9b53-796e1c66635d.png)
+
+tools for Lambda
+
+![image](https://user-images.githubusercontent.com/38088886/111033688-612fe400-840a-11eb-98b9-b7940a4e0267.png)
+
+![image](https://user-images.githubusercontent.com/38088886/111033714-86bced80-840a-11eb-9b09-1a6fe057f984.png)
+
 
