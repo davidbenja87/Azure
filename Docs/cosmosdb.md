@@ -61,7 +61,7 @@ Partition best practice
 * if our purpose to disaster recovery, then we need to use Region Pair.
 * If our purpose to give user to feel low latency, the choose global replication
 
-![image](https://user-images.githubusercontent.com/38088886/111016646-0b762000-83a7-11eb-9029-edc00a0f6125.png)
+![image](https://user-images.githubusercontent.com/38088886/111016711-5132e880-83a7-11eb-83fc-701b6f297dde.png)
 
 
 ![image](https://user-images.githubusercontent.com/38088886/111016477-298f5080-83a6-11eb-836b-b1cb32abd031.png)
