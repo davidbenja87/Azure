@@ -87,6 +87,9 @@ Conflict Resolution
  ![image](https://user-images.githubusercontent.com/38088886/111017425-57c35f00-83ab-11eb-8896-fd8ab726f04a.png)
  
 
+**Measuring performance**
+
+![image](https://user-images.githubusercontent.com/38088886/111017911-05d00880-83ae-11eb-8c41-e1650b4519df.png)
 
 
 
