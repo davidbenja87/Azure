@@ -91,6 +91,9 @@ Conflict Resolution
 
 ![image](https://user-images.githubusercontent.com/38088886/111017911-05d00880-83ae-11eb-8c41-e1650b4519df.png)
 
+![image](https://user-images.githubusercontent.com/38088886/111018083-dbcb1600-83ae-11eb-9493-1e8be2e12947.png)
+
+
 
 
 
