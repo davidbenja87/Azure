@@ -49,3 +49,7 @@ sql db zone redudancy
 
 ![image](https://user-images.githubusercontent.com/38088886/111026684-75141f80-83e3-11eb-8049-e45e15bb309d.png)
 
+configure geo-replication
+
+![image](https://user-images.githubusercontent.com/38088886/111026744-d9cf7a00-83e3-11eb-8c23-c8ae371b6fcd.png)
+
