@@ -43,3 +43,10 @@ Stream processing, we receive data as events with timestamp. To process it, we n
 ![image](https://user-images.githubusercontent.com/38088886/111033210-f2ea2200-8407-11eb-8d60-95002fa54a0b.png)
 
 
+**Real time Architechture**
+simple Archtiecture
+
+![image](https://user-images.githubusercontent.com/38088886/111033280-5411f580-8408-11eb-8651-46fc834baf31.png)
+
+
+
