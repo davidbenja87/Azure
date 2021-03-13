@@ -10,3 +10,8 @@ DataLake architechture
 
 Data Lake HA vs Disaster recovery
 ![image](https://user-images.githubusercontent.com/38088886/111019292-24d29880-83b6-11eb-8ab5-1471a8737c93.png)
+
+
+Locally redudant storage
+
+![image](https://user-images.githubusercontent.com/38088886/111019558-e63ddd80-83b7-11eb-9f5b-b1a944010343.png)
