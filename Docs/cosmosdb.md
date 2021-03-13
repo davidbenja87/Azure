@@ -108,6 +108,8 @@ Multi model API
 
 ![image](https://user-images.githubusercontent.com/38088886/111018772-b9d39280-83b2-11eb-9ac7-855f33e2bc0d.png)
 
+![image](https://user-images.githubusercontent.com/38088886/111018798-f1dad580-83b2-11eb-8db4-f4aefcc5c69b.png)
+
 
 
 
