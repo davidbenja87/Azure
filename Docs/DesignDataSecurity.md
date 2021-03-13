@@ -47,6 +47,11 @@ Shared access signature(SAS)
 
 ![image](https://user-images.githubusercontent.com/38088886/111035047-4f513f80-8410-11eb-9cd5-f4dbbed2d08e.png)
 
+Active Directory Identities
+
+![image](https://user-images.githubusercontent.com/38088886/111035104-bcfd6b80-8410-11eb-96eb-fea186cdcdf2.png)
+
+
 
 
 
