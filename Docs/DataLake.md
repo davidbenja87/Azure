@@ -54,3 +54,6 @@ Read acccess Geo zone redudant stroage
 
 ![image](https://user-images.githubusercontent.com/38088886/111019908-11c1c780-83ba-11eb-9920-3094c2fbc414.png)
 
+**Data Protection**
+
+![image](https://user-images.githubusercontent.com/38088886/111019951-66fdd900-83ba-11eb-868c-9299cad9eb20.png)
