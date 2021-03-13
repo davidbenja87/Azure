@@ -23,4 +23,12 @@ Azcopy
 * supports concurrent processing
 * resume from where it left when failed
 
+Adlcopy
+* used to copy data ONLY to Datalake. not from Datalake
+
+Distcp
+* Ingest data from HDFS into Azure data lake
+
+Sqoop
+* transfer data from RDBMS into HDFS
 ![image](https://user-images.githubusercontent.com/38088886/111029252-a5fc5080-83f3-11eb-9eac-60e6999a8973.png)
