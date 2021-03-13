@@ -47,3 +47,10 @@ Read acccess Geo zone redudant stroage
 
 ![image](https://user-images.githubusercontent.com/38088886/111019854-b5f73e80-83b9-11eb-9f1b-172b34d13103.png)
 
+
+**Failover**
+
+* currently only Manual failover is available
+
+![image](https://user-images.githubusercontent.com/38088886/111019908-11c1c780-83ba-11eb-9920-3094c2fbc414.png)
+
