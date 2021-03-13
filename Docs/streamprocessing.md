@@ -30,3 +30,12 @@ Stream processing, we receive data as events with timestamp. To process it, we n
 **Hopping window**
 
 ![image](https://user-images.githubusercontent.com/38088886/111032875-4ce9e800-8406-11eb-9f2a-40c744a4bf40.png)
+
+**Slidding window**
+
+* It creates bucket when an event happened and goes to the specified time. Next bucket will be created when the next event happens
+
+![image](https://user-images.githubusercontent.com/38088886/111032997-f29d5700-8406-11eb-99bb-79cbccc0b6f0.png)
+
+
+![image](https://user-images.githubusercontent.com/38088886/111032966-c8e43000-8406-11eb-8914-a26cfcd3c17c.png)
