@@ -98,6 +98,8 @@ Conflict Resolution
 
 ![image](https://user-images.githubusercontent.com/38088886/111018519-1e8ded80-83b1-11eb-83fb-bdf2e0402ee0.png)
 
+![image](https://user-images.githubusercontent.com/38088886/111018547-5a28b780-83b1-11eb-8ff5-1e933d8d8c94.png)
+
 
 
 
