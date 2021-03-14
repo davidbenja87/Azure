@@ -245,6 +245,12 @@ How to mask data dynamically
 
 ![image](https://user-images.githubusercontent.com/38088886/111059411-3175f000-848d-11eb-9d25-770ebd787106.png)
 
+How to apply Dynamic Data Masking
+
+* also include T-SQL
+
+![image](https://user-images.githubusercontent.com/38088886/111059475-c678e900-848d-11eb-9ce7-0b2e4faa9c2c.png)
+
 
 
 
