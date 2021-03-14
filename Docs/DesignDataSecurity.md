@@ -72,6 +72,23 @@ State of data
 
 ![image](https://user-images.githubusercontent.com/38088886/111057915-cc1d0180-8482-11eb-94c1-42e1a7007b7a.png)
 
+Type of encryption
+
+* symmetric
+
+Same key is used for encrypt and decrypt
+
+![image](https://user-images.githubusercontent.com/38088886/111057951-09818f00-8483-11eb-9864-f2daad133dbd.png)
+
+* Assymmetric
+* public key for encrypt and private key for decrypt
+
+![image](https://user-images.githubusercontent.com/38088886/111057997-536a7500-8483-11eb-8bc8-4db3fde97afc.png)
+
+In both cases, key need to be maintained in secured place, in azure we need to use Azure key vault.
+
+
+
 
 
 
