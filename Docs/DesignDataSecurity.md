@@ -251,6 +251,10 @@ How to apply Dynamic Data Masking
 
 ![image](https://user-images.githubusercontent.com/38088886/111059475-c678e900-848d-11eb-9ce7-0b2e4faa9c2c.png)
 
+Masked columns will be figured out by
+
+![image](https://user-images.githubusercontent.com/38088886/111059500-0b9d1b00-848e-11eb-8960-42defb2fedb4.png)
+
 
 
 
