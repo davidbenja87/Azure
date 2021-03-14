@@ -307,6 +307,8 @@ Filter set for rule
 
 ![image](https://user-images.githubusercontent.com/38088886/111059896-d5ad6600-8490-11eb-9c37-f44b1260a199.png)
 
+* LCM can be applied for container level or account level
+
 
 
 
