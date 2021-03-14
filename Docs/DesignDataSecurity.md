@@ -243,6 +243,10 @@ How to mask data dynamically
 ![image](https://user-images.githubusercontent.com/38088886/111059250-f58e5b00-848b-11eb-9823-508049b9fbff.png)
 
 
+![image](https://user-images.githubusercontent.com/38088886/111059411-3175f000-848d-11eb-9d25-770ebd787106.png)
+
+
+
 
 
 
