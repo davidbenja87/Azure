@@ -176,6 +176,13 @@ Step 6:
 
 ![image](https://user-images.githubusercontent.com/38088886/111058574-7b5bd780-8487-11eb-9e41-78e4b21d2eda.png)
 
+Step 7:
+
+Now we can visualise, the data is encrypted
+
+![image](https://user-images.githubusercontent.com/38088886/111058794-c75b4c00-8488-11eb-8c00-ba0fde04ac13.png)
+
+
 
 Deterministic vs Randomised
 
@@ -192,7 +199,14 @@ CEK vs CMK
 Azure synapse DB - encryption at motion
 
 
+Same type of encryption at motion which we have done so far for the synapse
 
+Access policy need to be configured in key vault, in order to generate the keys
+
+![image](https://user-images.githubusercontent.com/38088886/111058878-5b2d1800-8489-11eb-960c-948e1ef244c2.png)
+
+
+##**Data Auditing**
 
 
 
