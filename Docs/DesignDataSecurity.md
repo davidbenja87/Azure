@@ -1,7 +1,7 @@
 
-**Secure Endpoint**
+# Secure Endpoint
 
-**Service endpoint**
+## Service endpoint
 
 * suppose if you have mportant asset in storage and you want to give secure access only to the specified resource, then use service endpoint.
 * This will use Azure backbone network. Usually all azure services use internet.
@@ -17,7 +17,7 @@
 ![image](https://user-images.githubusercontent.com/38088886/111034433-912cb680-840d-11eb-860a-cb2537d2077c.png)
 
 
-**Private link (Private endpoint)**
+## Private link (Private endpoint)
 
 * Unlike service endpoint, where we open for entire service, in private endpoint, we open for specific resource.
 * It also create private ip address, so that it transfers data within network.
@@ -27,7 +27,7 @@
 ![image](https://user-images.githubusercontent.com/38088886/111034585-4f504000-840e-11eb-952b-a3b176df2fc2.png)
 
 
-**Storage Account Authentication**
+# Storage Account Authentication
 Access key - 
 * root key
 * its like password. with this key, you can do anything. this will have full privilege
@@ -63,7 +63,7 @@ Role based access control
 ![image](https://user-images.githubusercontent.com/38088886/111057880-8ceeb080-8482-11eb-9035-f779620e84ef.png)
 
 
-**Data encryption**
+# Data encryption
 
 State of data
 * Rest
@@ -87,7 +87,7 @@ Same key is used for encrypt and decrypt
 
 In both cases, key need to be maintained in secured place, in azure we need to use Azure key vault.
 
-Encryption at rest
+## Encryption at rest
 
 ![image](https://user-images.githubusercontent.com/38088886/111058079-e1def680-8483-11eb-954c-bdc5c52b638a.png)
 
@@ -125,7 +125,7 @@ Azure cosmos DB - encryption at rest
 * In CosmosDB, we do n't have option to select Data encryption. By default, it encrypts data at rest, at motion and in use.
 
 
-Data Encryption at transit/motion
+## Data Encryption at transit/motion
 
 ![image](https://user-images.githubusercontent.com/38088886/111058292-7b5ad800-8485-11eb-83d9-70209dac4f24.png)
 
