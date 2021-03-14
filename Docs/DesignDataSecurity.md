@@ -163,6 +163,9 @@ Step 4
 * Select the master key (CMK) to protect column level encryption (CEK)
 * This master key can be stored in windows certificate store or Azure Key vault
 
+![image](https://user-images.githubusercontent.com/38088886/111058551-50718380-8487-11eb-89e0-3787049999da.png)
+
+
 Step 5
 
 * select you want script or run immediately
@@ -173,7 +176,6 @@ Step 6:
 
 ![image](https://user-images.githubusercontent.com/38088886/111058574-7b5bd780-8487-11eb-9e41-78e4b21d2eda.png)
 
-![image](https://user-images.githubusercontent.com/38088886/111058551-50718380-8487-11eb-89e0-3787049999da.png)
 
 Deterministic vs Randomised
 
