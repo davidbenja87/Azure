@@ -87,6 +87,10 @@ Same key is used for encrypt and decrypt
 
 In both cases, key need to be maintained in secured place, in azure we need to use Azure key vault.
 
+Encryption at rest
+
+![image](https://user-images.githubusercontent.com/38088886/111058079-e1def680-8483-11eb-954c-bdc5c52b638a.png)
+
 
 
 
