@@ -256,6 +256,58 @@ Masked columns will be figured out by
 ![image](https://user-images.githubusercontent.com/38088886/111059500-0b9d1b00-848e-11eb-8960-42defb2fedb4.png)
 
 
+# Data privacy and Data Classification
+
+![image](https://user-images.githubusercontent.com/38088886/111059529-3d15e680-848e-11eb-8a48-09acf5293918.png)
+
+## Advanced Data Security
+
+![image](https://user-images.githubusercontent.com/38088886/111059551-5fa7ff80-848e-11eb-89ea-2e95918f0ae1.png)
+
+### Data Discovery & classification
+
+![image](https://user-images.githubusercontent.com/38088886/111059576-9716ac00-848e-11eb-8570-293127c0deeb.png)
+
+![image](https://user-images.githubusercontent.com/38088886/111059600-c9280e00-848e-11eb-878b-b50c28dd3491.png)
+
+Information type
+
+![image](https://user-images.githubusercontent.com/38088886/111059611-dcd37480-848e-11eb-8db2-4e8763d32067.png)
+
+Sensitive label
+
+![image](https://user-images.githubusercontent.com/38088886/111059616-ea88fa00-848e-11eb-87a5-31ed640ed343.png)
+
+### Vulnerabilty Accessment
+
+* Idenfity security vulnerabilty and also provide actions
+
+![image](https://user-images.githubusercontent.com/38088886/111059643-173d1180-848f-11eb-9b2d-0db220c7df21.png)
+
+![image](https://user-images.githubusercontent.com/38088886/111059658-3340b300-848f-11eb-9911-9692158466ff.png)
+
+### Advance threat protection
+
+![image](https://user-images.githubusercontent.com/38088886/111059669-4bb0cd80-848f-11eb-91e8-ef21e1040008.png)
+
+
+# Data Retention 
+
+Managing Data Life cycle
+
+![image](https://user-images.githubusercontent.com/38088886/111059694-7ac73f00-848f-11eb-880f-42c4708895c2.png)
+
+We can write life cycle management policy to move the data automatically.
+
+Configure Life cycle managment 
+
+![image](https://user-images.githubusercontent.com/38088886/111059884-b44c7a00-8490-11eb-8bb3-c97bce360983.png)
+
+Filter set for rule
+
+![image](https://user-images.githubusercontent.com/38088886/111059896-d5ad6600-8490-11eb-9c37-f44b1260a199.png)
+
+
 
 
 
