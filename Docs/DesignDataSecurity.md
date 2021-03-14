@@ -160,6 +160,33 @@ Step 3
 
 Step 4
 
+* Select the master key (CMK) to protect column level encryption (CEK)
+* This master key can be stored in windows certificate store or Azure Key vault
+
+Step 5
+
+* select you want script or run immediately
+
+![image](https://user-images.githubusercontent.com/38088886/111058568-68490780-8487-11eb-9fa9-815aabef1964.png)
+
+Step 6:
+
+![image](https://user-images.githubusercontent.com/38088886/111058574-7b5bd780-8487-11eb-9e41-78e4b21d2eda.png)
+
+![image](https://user-images.githubusercontent.com/38088886/111058551-50718380-8487-11eb-89e0-3787049999da.png)
+
+Deterministic vs Randomised
+
+![image](https://user-images.githubusercontent.com/38088886/111058647-d1c91600-8487-11eb-9dd4-24329cac807f.png)
+
+CEK vs CMK
+
+* To decrypt the data, User (Client) should supply CMK to decrypt CEK to see the actual values
+
+
+![image](https://user-images.githubusercontent.com/38088886/111058707-148aee00-8488-11eb-910a-74c3a28e3309.png)
+
+
 Azure synapse DB - encryption at motion
 
 
