@@ -91,6 +91,77 @@ Encryption at rest
 
 ![image](https://user-images.githubusercontent.com/38088886/111058079-e1def680-8483-11eb-954c-bdc5c52b638a.png)
 
+Storage account blob account - Encryption at rest
+
+![image](https://user-images.githubusercontent.com/38088886/111058121-25d1fb80-8484-11eb-8b0c-ab818ec34923.png)
+
+Storage account gen 2 - encryption at rest
+
+![image](https://user-images.githubusercontent.com/38088886/111058147-531ea980-8484-11eb-9aa9-d37330c8cf8e.png)
+
+Azure sql DB - encryption at rest
+
+* Transparent Data Encryption (TDE) - encrypts data at rest which includes data, logs & backup
+* At database level, we do n't have option to select our own key
+
+![image](https://user-images.githubusercontent.com/38088886/111058180-8eb97380-8484-11eb-822b-24631c85ac51.png)
+
+
+Azure synapse - encryption at rest
+
+* Transparent Data Encryption (TDE) - encrypts data at rest which includes data, logs & backup
+* At database level, we do n't have option to select our own key
+
+
+![image](https://user-images.githubusercontent.com/38088886/111058210-b90b3100-8484-11eb-8de6-96a82adaa5b8.png)
+
+But at server leve TDE, can use Microsoft managed key/ Customer Managed Key
+
+![image](https://user-images.githubusercontent.com/38088886/111058234-fb347280-8484-11eb-948c-086bdac9bb29.png)
+
+
+Azure cosmos DB - encryption at rest
+
+* In CosmosDB, we do n't have option to select Data encryption. By default, it encrypts data at rest, at motion and in use.
+
+
+Data Encryption at transit/motion
+
+![image](https://user-images.githubusercontent.com/38088886/111058292-7b5ad800-8485-11eb-83d9-70209dac4f24.png)
+
+Storage account - blob storage - Encryption at motion
+
+![image](https://user-images.githubusercontent.com/38088886/111058331-ce348f80-8485-11eb-8cb6-421debd66c8c.png)
+
+Storage account - DataLake gen2 - Encryption at motion
+
+![image](https://user-images.githubusercontent.com/38088886/111058358-02a84b80-8486-11eb-975e-ec268847c5b2.png)
+
+Azure sql DB - encryption at motion
+
+* In sql DB, if we have data with PII information, then that needs to be encrypted while transferring data.
+
+We need to use Always Encrypted
+
+Step 1
+![image](https://user-images.githubusercontent.com/38088886/111058438-92e69080-8486-11eb-81e9-a6fa876ed020.png)
+
+Step 2
+
+![image](https://user-images.githubusercontent.com/38088886/111058467-b7db0380-8486-11eb-87d7-1b6373b22f57.png)
+
+Step 3
+
+* Select the fields which we want to encrypt
+* Select encryption type - Deterministic/ Randomised
+* Select encryption key - existing key/ new key
+
+![image](https://user-images.githubusercontent.com/38088886/111058516-038dad00-8487-11eb-9b64-9c378620fad4.png)
+
+Step 4
+
+Azure synapse DB - encryption at motion
+
 
 
 
