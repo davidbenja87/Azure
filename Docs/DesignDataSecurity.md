@@ -208,6 +208,42 @@ Access policy need to be configured in key vault, in order to generate the keys
 
 # Data Auditing
 
+## Auditing in SQL DB
+
+![image](https://user-images.githubusercontent.com/38088886/111059006-42713200-848a-11eb-8213-8d94e0897541.png)
+
+Set up Auditing in SQL DB
+
+### Server level Auditing
+
+*  tracks all database activities
+
+![image](https://user-images.githubusercontent.com/38088886/111059045-8106ec80-848a-11eb-9ec1-dd4e3f9bffa4.png)
+
+### Database level Auditing
+
+![image](https://user-images.githubusercontent.com/38088886/111059061-9d0a8e00-848a-11eb-8d34-5b2d9a038435.png)
+
+* log analytics output will be consumed by Azure Monitor/ PowerBI report
+
+configure audit in Storage account
+
+![image](https://user-images.githubusercontent.com/38088886/111059118-e955ce00-848a-11eb-8a7f-55a50ab014d0.png)
+
+Configure audit in Log Analytics
+
+![image](https://user-images.githubusercontent.com/38088886/111059132-fbd00780-848a-11eb-8d47-762f07fd0fbd.png)
+
+# Data Masking
+
+How to mask data dynamically
+
+![image](https://user-images.githubusercontent.com/38088886/111059155-2cb03c80-848b-11eb-8258-6543590e55f6.png)
+
+![image](https://user-images.githubusercontent.com/38088886/111059250-f58e5b00-848b-11eb-9823-508049b9fbff.png)
+
+
+
 
 
 
