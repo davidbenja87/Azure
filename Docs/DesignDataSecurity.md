@@ -63,6 +63,15 @@ Role based access control
 ![image](https://user-images.githubusercontent.com/38088886/111057880-8ceeb080-8482-11eb-9035-f779620e84ef.png)
 
 
+**Data encryption**
+
+State of data
+* Rest
+* in motion
+* in use
+
+![image](https://user-images.githubusercontent.com/38088886/111057915-cc1d0180-8482-11eb-94c1-42e1a7007b7a.png)
+
 
 
 
