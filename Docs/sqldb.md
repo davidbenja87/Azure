@@ -89,3 +89,11 @@ Restore database steps
 
 ![image](https://user-images.githubusercontent.com/38088886/111027506-a3e0c480-83e8-11eb-9911-dbe9c2eadbb2.png)
 
+
+# Azure Sql Automated tunning
+
+* Force plan
+* Create index
+* drop index
+======== Need to read
+
