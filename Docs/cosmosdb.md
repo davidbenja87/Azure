@@ -135,6 +135,11 @@ CosmosDB Backup strategy
 ![image](https://user-images.githubusercontent.com/38088886/111020423-98c46f00-83bd-11eb-8ea4-5ebe2079a004.png)
 
 
+RU consideration
+
+![image](https://user-images.githubusercontent.com/38088886/111115356-643ae980-855c-11eb-8c37-fdf63ed36343.png)
+
+
 
 
 
