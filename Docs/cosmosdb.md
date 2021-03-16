@@ -142,6 +142,9 @@ RU consideration
 
 
 
+# CosmosDB Authentication
+
+![image](https://user-images.githubusercontent.com/38088886/111260366-914cd200-8618-11eb-97c2-1bbe5540a403.png)
 
 
 
