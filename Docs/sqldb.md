@@ -1,7 +1,7 @@
 
 ![image](https://user-images.githubusercontent.com/38088886/111021211-b6480780-83c2-11eb-9c81-d2c8219e2032.png)
 
-**Deplyment options and Purchasing model**
+# Deplyment options and Purchasing model
 
 Deployment option
  * single Database
@@ -35,7 +35,7 @@ Horizontal scale out
 ![image](https://user-images.githubusercontent.com/38088886/111022133-dd093c80-83c8-11eb-89d9-9934832e0ded.png)
 
 
-**Azure sql db High availablitly** 
+# Azure sql db High availablitly
 
 ![image](https://user-images.githubusercontent.com/38088886/111026162-d8e91900-83e0-11eb-9bb6-bd81b8b34286.png)
 
@@ -45,7 +45,7 @@ sql db zone redudancy
 ![image](https://user-images.githubusercontent.com/38088886/111026461-49dd0080-83e2-11eb-86e8-b7a008528c02.png)
 
 
-**Disaster Recovery - Geo replication**
+# Disaster Recovery - Geo replicati
 
 ![image](https://user-images.githubusercontent.com/38088886/111026684-75141f80-83e3-11eb-8049-e45e15bb309d.png)
 
@@ -53,7 +53,7 @@ configure geo-replication
 
 ![image](https://user-images.githubusercontent.com/38088886/111026744-d9cf7a00-83e3-11eb-8c23-c8ae371b6fcd.png)
 
-**Failover group**
+# Failover group
 
 ![image](https://user-images.githubusercontent.com/38088886/111026803-52ced180-83e4-11eb-8e51-8d5dbdd3f94b.png)
 
@@ -64,7 +64,7 @@ configure geo-replication
 ![image](https://user-images.githubusercontent.com/38088886/111027091-f8cf0b80-83e5-11eb-8d61-32acadaa53a6.png)
 
 
-**Database Backup**
+# Database Backup
 
 ![image](https://user-images.githubusercontent.com/38088886/111027192-89a5e700-83e6-11eb-812d-dbbc748ed11c.png)
 
@@ -137,6 +137,12 @@ MV stores the data in cache. This data can be refreshed either by schedule trigg
 ![image](https://user-images.githubusercontent.com/38088886/111258430-de2ea980-8614-11eb-8005-a7bb6b8980ef.png)
 
 [more info on Materialised view](https://docs.microsoft.com/en-us/azure/architecture/patterns/materialized-view)
+
+
+# SQL DB monitoring
+
+![image](https://user-images.githubusercontent.com/38088886/111263289-88123400-861d-11eb-9f04-1b93a774e974.png)
+
 
 
 
