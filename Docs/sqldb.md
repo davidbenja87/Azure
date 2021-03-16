@@ -92,11 +92,29 @@ Restore database steps
 
 # Azure Sql Automated tunning
 
+Azure SQL Database automatically manages data services that constantly monitor your queries and identifies the action that you can perform to improve performance of your workload. You can review recommendations and manually apply them, or let Azure SQL Database automatically apply corrective actions - this is known as automatic tuning mode.
+
+Automatic tuning can be enabled at the server or the database level through:
+
+The Azure portal
+REST API calls
+T-SQL commands
+
 * Force plan
 * Create index
 * drop index
 
 ![image](https://user-images.githubusercontent.com/38088886/111254617-598c5d00-860d-11eb-9693-99c35397fbb9.png)
+
+![image](https://user-images.githubusercontent.com/38088886/111255029-32825b00-860e-11eb-9fb0-4b81e43a24f6.png)
+
+Set Automatic tunning through sql
+
+```sql
+ALTER DATABASE current SET AUTOMATIC_TUNING = AUTO | INHERIT | CUSTOM
+```
+
+Automatic tuning options on a server are applied to all databases on this server. By default, all databases inherit configuration from their parent server, but this can be overridden and specified for each database individually.
 
 [more info on automatic tunning](https://docs.microsoft.com/en-us/azure/azure-sql/database/automatic-tuning-enable)
 
