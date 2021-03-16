@@ -42,6 +42,9 @@ Stream processing, we receive data as events with timestamp. To process it, we n
 
 * It creates bucket when an event happened and goes to the specified time. Next bucket will be created when the next event happens
 
+![image](https://user-images.githubusercontent.com/38088886/111256420-f3093e00-8610-11eb-8eaa-5ccd7e3f0f8f.png)
+
+
 ![image](https://user-images.githubusercontent.com/38088886/111032997-f29d5700-8406-11eb-99bb-79cbccc0b6f0.png)
 
 
