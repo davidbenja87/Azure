@@ -173,6 +173,12 @@ Synapse Optimzation
 
 https://docs.microsoft.com/en-us/azure/synapse-analytics/sql-data-warehouse/sql-data-warehouse-best-practices
 
+CTAS/Partition switch VS UPDATE/DELETE
+
+![image](https://user-images.githubusercontent.com/38088886/111257089-6e1f2400-8612-11eb-93a1-3ee0e04dccdb.png)
+
+[CTAS VS UPDATE/DELETE Peformance](https://docs.microsoft.com/en-gb/archive/blogs/apsblog/azure-sql-dw-performance-ctaspartition-switching-vs-updatedelete)
+
 Cosmodb Optimzation
 
 https://docs.microsoft.com/en-us/learn/modules/monitor-and-scale-cosmos-db/
