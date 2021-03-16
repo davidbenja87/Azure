@@ -124,4 +124,11 @@ Automatic tuning options on a server are applied to all databases on this server
 
 [more info on Memory optimised table](https://docs.microsoft.com/en-us/azure/azure-sql/in-memory-oltp-overview)
 
+## Materialised View
+
+![image](https://user-images.githubusercontent.com/38088886/111258430-de2ea980-8614-11eb-8005-a7bb6b8980ef.png)
+
+[more info on Materialised view](https://docs.microsoft.com/en-us/azure/architecture/patterns/materialized-view)
+
+
 
