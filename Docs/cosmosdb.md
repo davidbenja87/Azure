@@ -146,6 +146,9 @@ RU consideration
 
 ![image](https://user-images.githubusercontent.com/38088886/111260366-914cd200-8618-11eb-97c2-1bbe5540a403.png)
 
+![image](https://user-images.githubusercontent.com/38088886/111260800-5d25e100-8619-11eb-95c9-999622e1d777.png)
+
+
 
 
 
