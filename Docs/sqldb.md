@@ -98,6 +98,6 @@ Restore database steps
 
 ![image](https://user-images.githubusercontent.com/38088886/111254617-598c5d00-860d-11eb-9693-99c35397fbb9.png)
 
-[automatic tunning](https://docs.microsoft.com/en-us/azure/azure-sql/database/automatic-tuning-enable)
-======== Need to read
+[more info on automatic tunning](https://docs.microsoft.com/en-us/azure/azure-sql/database/automatic-tuning-enable)
+
 
