@@ -33,6 +33,9 @@ Stream processing, we receive data as events with timestamp. To process it, we n
 
 ## Hopping window
 
+![image](https://user-images.githubusercontent.com/38088886/111256264-9a39a580-8610-11eb-800a-1330aca62308.png)
+
+
 ![image](https://user-images.githubusercontent.com/38088886/111032875-4ce9e800-8406-11eb-9f2a-40c744a4bf40.png)
 
 ## Slidding window
