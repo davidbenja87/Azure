@@ -86,11 +86,19 @@ Parallel reader loading method
 Load with polybase
 ![image](https://user-images.githubusercontent.com/38088886/110207001-07af3e80-7e79-11eb-8301-c6b76b8a0a1f.png)
 
-Polybase set up
+## Polybase set up
+
+External table
+
+It just contains meta data and actual data sits in external storage system. You can query the external source sytem file as traditional table.
+
+If there is change in the underlying file,let's say adding field or removing, you suppose to drop external and create it again. you can't drop the table.
+
+
 ![image](https://user-images.githubusercontent.com/38088886/110207139-7391a700-7e79-11eb-8d1f-b2e6260e1f22.png)
 
 
-**Security**
+# Security
 
 Network security
  Firewall
@@ -144,12 +152,12 @@ Synapse Optimization
 * Passing and resuming compute- As storage and compute are decoupled, create some trigger to stop DWH to avoid compute cost when not in use.
 
 
-**Synapse Scaling**
+# Synapse Scaling
 
 ![image](https://user-images.githubusercontent.com/38088886/111022209-4a1cd200-83c9-11eb-885a-fc2c1ee41fce.png)
 
 
-**Datawarehouse backup**
+# Datawarehouse backup
 ![image](https://user-images.githubusercontent.com/38088886/111027898-00dd7a00-83eb-11eb-886a-113f2654d127.png)
 
 Taking restore points
