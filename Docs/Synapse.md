@@ -1,4 +1,4 @@
-**Synapse Architechture******
+# Synapse Architechture
 
 Three compenents in DWH.
 * Control node
@@ -23,7 +23,7 @@ Storage
  
 ![image](https://user-images.githubusercontent.com/38088886/110204790-e8aaaf80-7e6c-11eb-9cc1-39e8b4852a3a.png)
 
-**Data Distribution & Sharding**
+# Data Distribution & Sharding
 
 In Datawarehouse, three techniques are used
 * Round robin - Data is evenly distributed based on order of rows. It is good for loading data into the staging table. Not good for join/group by, because it requires data transformation.
@@ -45,7 +45,7 @@ Synapse vs Dedicated sql pool
 
 ![image](https://user-images.githubusercontent.com/38088886/110075741-32b36880-7d7b-11eb-8ee3-dbf351445dc6.png)
 
-**Table type**
+## Table type
 
 Clustered column store index
 * store and organise data into column
@@ -62,7 +62,7 @@ Clustered B tree index
 * No data compression
 * secondary index can be created
 
-**Data Migration**
+# Data Migration
 
 Best practice to load data into DWH
 * do n't ordered data while loading, use round robin for loading into DWH
@@ -125,8 +125,11 @@ Access Managment
     row level security -control access to row based on the role of the user.
     column level security - control access to column based on the role of the user.
 
-
 ![image](https://user-images.githubusercontent.com/38088886/110212644-4ef6f880-7e94-11eb-86ed-c2faac6b453e.png)
+
+## Data encryption
+
+![image](https://user-images.githubusercontent.com/38088886/111259545-09b29380-8617-11eb-9588-e62a841b1ba7.png)
 
 
 Synapse workspace
@@ -140,7 +143,7 @@ Difference between SQL dedicated pool vs serverless pool
 
 
 
-Synapse Optimization
+# Synapse Optimization
 
 * For big dataloading,use Polybase instead of ADF,BCP
 * For big data join, use HASH Distribution
