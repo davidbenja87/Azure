@@ -131,6 +131,7 @@ Access Managment
 
 ![image](https://user-images.githubusercontent.com/38088886/111259545-09b29380-8617-11eb-9588-e62a841b1ba7.png)
 
+[simple step to encrypt Database TDE](https://docs.microsoft.com/en-us/azure/synapse-analytics/sql-data-warehouse/sql-data-warehouse-encryption-tde-tsql)
 
 Synapse workspace
 
