@@ -126,6 +126,14 @@ Automatic tuning options on a server are applied to all databases on this server
 
 ## Materialised View
 
+A key point is that a materialized view and the data it contains is completely disposable because it can be entirely rebuilt from the source data stores. A materialized view is never updated directly by an application, and so it's a specialized cache.
+
+When the source data for the view changes, the view must be updated to include the new information. You can schedule this to happen automatically, or when the system detects a change to the original data. In some cases it might be necessary to regenerate the view manually. The figure shows an example of how the Materialized View pattern might be used.
+
+![image](https://user-images.githubusercontent.com/38088886/111258996-f9e67f80-8615-11eb-8957-d4427f69b2b2.png)
+
+MV stores the data in cache. This data can be refreshed either by schedule triggers or when event happens on the source data.
+
 ![image](https://user-images.githubusercontent.com/38088886/111258430-de2ea980-8614-11eb-8005-a7bb6b8980ef.png)
 
 [more info on Materialised view](https://docs.microsoft.com/en-us/azure/architecture/patterns/materialized-view)
