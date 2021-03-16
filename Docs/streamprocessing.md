@@ -90,4 +90,7 @@ tools for Lambda
 ![image](https://user-images.githubusercontent.com/38088886/111033784-ce437980-840a-11eb-9691-332f9a9772fa.png)
 
 
+# Query parallelisation
+
+[more info on query parallelisation](https://docs.microsoft.com/en-us/azure/stream-analytics/stream-analytics-parallelization)
 
