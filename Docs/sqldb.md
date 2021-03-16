@@ -118,4 +118,10 @@ Automatic tuning options on a server are applied to all databases on this server
 
 [more info on automatic tunning](https://docs.microsoft.com/en-us/azure/azure-sql/database/automatic-tuning-enable)
 
+## Memory optimised table
+
+![image](https://user-images.githubusercontent.com/38088886/111257886-da4e5780-8613-11eb-91a5-8fd42a3bbcbf.png)
+
+[more info on Memory optimised table](https://docs.microsoft.com/en-us/azure/azure-sql/in-memory-oltp-overview)
+
 
