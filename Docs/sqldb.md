@@ -23,6 +23,11 @@ Compute tier
 
 ![image](https://user-images.githubusercontent.com/38088886/111021489-91ed2a80-83c4-11eb-852f-47395cb39e16.png)
 
+Business critical - Hyperscale
+
+![image](https://user-images.githubusercontent.com/38088886/111577802-e15b9e00-87aa-11eb-9cea-2e6875ac1c5c.png)
+
+
 **Horizontal vs Vertical Scaling**
 
 
