@@ -156,6 +156,11 @@ CosmosDB Backup strategy
 
 [Performance tips](https://docs.microsoft.com/en-us/azure/cosmos-db/performance-tips)
 
+# cosmosDB SLA
+
+![image](https://user-images.githubusercontent.com/38088886/111620699-f81be800-87de-11eb-92de-5d4992ad63bd.png)
+
+
 
 
 
