@@ -166,6 +166,10 @@ MV stores the data in cache. This data can be refreshed either by schedule trigg
 
 ![image](https://user-images.githubusercontent.com/38088886/111629899-af1d6100-87e9-11eb-96fd-527581d976f1.png)
 
+# Monitor with Vulnerablitly accessment
+![image](https://user-images.githubusercontent.com/38088886/111630045-d8d68800-87e9-11eb-8d2f-34c7475a4929.png)
+
+
 
 
 # HA use case
