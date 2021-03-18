@@ -160,6 +160,11 @@ CosmosDB Backup strategy
 
 ![image](https://user-images.githubusercontent.com/38088886/111620699-f81be800-87de-11eb-92de-5d4992ad63bd.png)
 
+# choosing partiton strategy
+
+![image](https://user-images.githubusercontent.com/38088886/111622252-d9b6ec00-87e0-11eb-89ca-884aa48bf2a3.png)
+
+
 
 
 
