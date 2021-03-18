@@ -161,4 +161,8 @@ MV stores the data in cache. This data can be refreshed either by schedule trigg
 # HA use case
 [High Availablilty Use case](https://docs.microsoft.com/en-us/azure/azure-sql/database/designing-cloud-solutions-for-disaster-recovery)
 
+# Move Sharded data Strategy
+
+[Move sharded data strategy](https://docs.microsoft.com/en-us/azure/azure-sql/database/elastic-scale-overview-split-and-merge)
+
 
