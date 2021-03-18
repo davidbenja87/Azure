@@ -94,3 +94,10 @@ tools for Lambda
 
 [more info on query parallelisation](https://docs.microsoft.com/en-us/azure/stream-analytics/stream-analytics-parallelization)
 
+# Azure pair region
+
+![image](https://user-images.githubusercontent.com/38088886/111622988-be001580-87e1-11eb-9de3-8e38a88c4abe.png)
+
+[Paired Region](https://docs.microsoft.com/en-us/azure/stream-analytics/stream-analytics-job-reliability)
+
+
