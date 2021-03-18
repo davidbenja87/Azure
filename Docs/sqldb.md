@@ -45,6 +45,15 @@ sql db zone redudancy
 ![image](https://user-images.githubusercontent.com/38088886/111026461-49dd0080-83e2-11eb-86e8-b7a008528c02.png)
 
 
+Premium and Business critical service tier ensures HA
+
+![image](https://user-images.githubusercontent.com/38088886/111576189-e2d79700-87a7-11eb-999a-35da8063116d.png)
+
+Zone redudant
+![image](https://user-images.githubusercontent.com/38088886/111576315-2fbb6d80-87a8-11eb-9187-dc6ade6144d5.png)
+
+[More info on SQL DB High Availablilty](https://docs.microsoft.com/en-us/azure/azure-sql/database/high-availability-sla)
+
 # Disaster Recovery - Geo replicati
 
 ![image](https://user-images.githubusercontent.com/38088886/111026684-75141f80-83e3-11eb-8049-e45e15bb309d.png)
