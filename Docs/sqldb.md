@@ -162,6 +162,11 @@ MV stores the data in cache. This data can be refreshed either by schedule trigg
 
 ![image](https://user-images.githubusercontent.com/38088886/111263289-88123400-861d-11eb-9f04-1b93a774e974.png)
 
+# How to protect sensitive data and monitor access to DB
+
+![image](https://user-images.githubusercontent.com/38088886/111629899-af1d6100-87e9-11eb-96fd-527581d976f1.png)
+
+
 
 # HA use case
 [High Availablilty Use case](https://docs.microsoft.com/en-us/azure/azure-sql/database/designing-cloud-solutions-for-disaster-recovery)
