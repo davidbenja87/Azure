@@ -152,7 +152,9 @@ CosmosDB Backup strategy
 
 
 
+# CosmosDB Performance Tips
 
+[Performance tips](https://docs.microsoft.com/en-us/azure/cosmos-db/performance-tips)
 
 
 
