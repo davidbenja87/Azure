@@ -42,3 +42,7 @@ command line tool for data ingestion
 DataLake architechture tools
 ![image](https://user-images.githubusercontent.com/38088886/111029604-7b12fc00-83f5-11eb-8c42-b77d3a0b846f.png)
 
+# Lambda Architechture
+
+![image](https://user-images.githubusercontent.com/38088886/111621776-4978a700-87e0-11eb-85de-c2c50f46431b.png)
+
