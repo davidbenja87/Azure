@@ -27,6 +27,11 @@ Business critical - Hyperscale
 
 ![image](https://user-images.githubusercontent.com/38088886/111577802-e15b9e00-87aa-11eb-9cea-2e6875ac1c5c.png)
 
+# DTU - Compute size and Storage size
+
+![image](https://user-images.githubusercontent.com/38088886/111629353-1d155880-87e9-11eb-9322-42260fd1522b.png)
+
+
 
 **Horizontal vs Vertical Scaling**
 
