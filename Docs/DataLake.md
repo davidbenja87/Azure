@@ -116,6 +116,10 @@ DFP prune unwanted partitioned files
 ![image](https://user-images.githubusercontent.com/38088886/111737358-6318fd80-8877-11eb-8d1b-567da2eb3059.png)
 
 
+# DataLake Partitioning
+
+[DataLake Partitioning](https://streamsets.com/documentation/transformer/latest/help/transformer/Destinations/ADLS-G2-D.html#concept_my4_1ry_vhb)
+
 
 
 
