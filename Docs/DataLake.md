@@ -121,6 +121,10 @@ DFP prune unwanted partitioned files
 [DataLake Partitioning](https://streamsets.com/documentation/transformer/latest/help/transformer/Destinations/ADLS-G2-D.html#concept_my4_1ry_vhb)
 
 
+# DataLake Authentication
+
+![image](https://user-images.githubusercontent.com/38088886/111766952-08df6300-889e-11eb-8467-30f6e5d2b807.png)
+
 
 
 
