@@ -87,6 +87,8 @@ For those organisations starting their data lake journey, they will attempt to a
 
 [Dynamic file prunning](https://docs.microsoft.com/en-us/azure/databricks/delta/optimizations/dynamic-file-pruning)
 
+with static pruninng
+* here we know the filter and it also use partiton data beforehand. so we can apply static prunning to avoid unneccessary file read.
 
 ![image](https://user-images.githubusercontent.com/38088886/111736124-23511680-8875-11eb-99b9-f3c3cc2ff6d9.png)
 
