@@ -17,3 +17,6 @@
 
 [File partition by ADF](https://visualbi.com/blogs/microsoft/azure/file-partition-using-azure-data-factory/)
 
+# Increment file copey
+
+[Increment file copy](https://docs.microsoft.com/en-us/azure/data-factory/tutorial-incremental-copy-partitioned-file-name-copy-data-tool)
