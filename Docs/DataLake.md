@@ -47,6 +47,10 @@ Read acccess Geo zone redudant stroage
 
 ![image](https://user-images.githubusercontent.com/38088886/111019854-b5f73e80-83b9-11eb-9f1b-172b34d13103.png)
 
+# Availablity and Durablilty
+
+[Availability and Durability](![image](https://user-images.githubusercontent.com/38088886/111786726-07219980-88b6-11eb-91d7-c48dd063dd02.png)
+
 
 **Failover**
 
