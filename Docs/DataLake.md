@@ -57,3 +57,14 @@ Read acccess Geo zone redudant stroage
 **Data Protection**
 
 ![image](https://user-images.githubusercontent.com/38088886/111019951-66fdd900-83ba-11eb-868c-9299cad9eb20.png)
+
+# DataLake Architecthure planning
+
+For those organisations starting their data lake journey, they will attempt to answer these frequently asked questions:
+
+* How do we structure the lake?
+* Which file formats should we use?
+* Should we have multiple lakes or just one?
+* How best to secure and govern the lake?
+
+[Datalake planning](https://cloudblogs.microsoft.com/industry-blog/en-gb/technetuk/2020/04/09/building-your-data-lake-on-azure-data-lake-storage-gen2-part-1/)
