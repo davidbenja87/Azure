@@ -40,6 +40,8 @@ Good Hash key
 
 [Guidance for designing distributed tables using dedicated SQL pool in Azure Synapse Analytics](https://docs.microsoft.com/en-us/azure/synapse-analytics/sql-data-warehouse/sql-data-warehouse-tables-distribute)
 
+![image](https://user-images.githubusercontent.com/38088886/111740270-5ea31380-887c-11eb-9222-3de9d62a49a9.png)
+
 
 Modern Datawarehouse
 
