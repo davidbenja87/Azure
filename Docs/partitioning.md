@@ -43,3 +43,5 @@ CosmoDB partition
 
 [Sharding](https://docs.microsoft.com/en-us/azure/architecture/patterns/sharding)
 
+[Adding Shard in sql DB](https://docs.microsoft.com/en-us/azure/azure-sql/database/elastic-scale-add-a-shard)
+
