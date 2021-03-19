@@ -98,7 +98,9 @@ without prunning
 
 ![image](https://user-images.githubusercontent.com/38088886/111736528-e89bae00-8875-11eb-9542-d24f58fae45f.png)
 
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/38088886/111736688-3d3f2900-8876-11eb-8383-cf54896b0bcb.png)
+
+
 
 
 
