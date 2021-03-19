@@ -33,3 +33,7 @@ CosmoDB partition
 
 ![image](https://user-images.githubusercontent.com/38088886/110900706-18d5d080-82fb-11eb-9ef2-8e097b4b6641.png)
 
+# Partitioning Best practice
+
+[Partitioning Best practice](https://docs.microsoft.com/en-us/azure/architecture/best-practices/data-partitioning#designing-partitions-for-query-performance)
+
