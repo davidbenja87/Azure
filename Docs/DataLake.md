@@ -70,3 +70,7 @@ For those organisations starting their data lake journey, they will attempt to a
 [Datalake planning part 1](https://cloudblogs.microsoft.com/industry-blog/en-gb/technetuk/2020/04/09/building-your-data-lake-on-azure-data-lake-storage-gen2-part-1/)
 
 ![image](https://user-images.githubusercontent.com/38088886/111732040-a457e000-886c-11eb-926d-0ad39b9fb543.png)
+
+# Query Data in DataLake using DataExplorer
+
+[Query data in Azure Data Lake using Azure Data Explorer](https://docs.microsoft.com/en-us/azure/data-explorer/data-lake-query-data)
