@@ -37,3 +37,5 @@ CosmoDB partition
 
 [Partitioning Best practice](https://docs.microsoft.com/en-us/azure/architecture/best-practices/data-partitioning#designing-partitions-for-query-performance)
 
+[Partitioning Best practice for each Azure service](https://docs.microsoft.com/en-us/azure/architecture/best-practices/data-partitioning-strategies)
+
