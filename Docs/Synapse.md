@@ -32,6 +32,8 @@ In Datawarehouse, three techniques are used
 
 [More info of Data Distribution](https://rajanieshkaushikk.com/2020/09/09/how-to-choose-right-data-distribution-strategy-for-azure-synapse/)
 
+[Partitioning tables in dedicated SQL pool](https://docs.microsoft.com/en-us/azure/synapse-analytics/sql-data-warehouse/sql-data-warehouse-tables-partition)
+
 Good Hash key
 
 ![image](https://user-images.githubusercontent.com/38088886/110205297-24df0f80-7e6f-11eb-9cdf-3d51083525b9.png)
