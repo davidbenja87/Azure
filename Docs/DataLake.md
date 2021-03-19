@@ -100,7 +100,18 @@ Here in this query, we are joining small table with big table but filter by smal
 
 ![image](https://user-images.githubusercontent.com/38088886/111736528-e89bae00-8875-11eb-9542-d24f58fae45f.png)
 
+ofcourse brodcast join helps to improve performance, as it copies this small data to all executor to avoid data shuffling. This also involve I/O operation for performing 
+broadcast join. But the join operation will perform on all executor, eventhough we are interested on US and India.
+
+
 ![image](https://user-images.githubusercontent.com/38088886/111736688-3d3f2900-8876-11eb-8383-cf54896b0bcb.png)
+
+Dynamic file prunning helps to skip unnecssary operation on the executor which hold other than US & India.
+
+DFP prune unwanted partitioned files
+
+![image](https://user-images.githubusercontent.com/38088886/111737358-6318fd80-8877-11eb-8d1b-567da2eb3059.png)
+
 
 
 
