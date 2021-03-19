@@ -58,8 +58,14 @@ How to choose DataStorage?
 
 [More info on Choosing DataStorage](https://docs.microsoft.com/en-us/azure/architecture/data-guide/technology-choices/analytical-data-stores)
 
+## General Capabilities
 
 ![image](https://user-images.githubusercontent.com/38088886/111774496-73e16780-88a7-11eb-8a29-d9b2d96da786.png)
+
+## Scalability capabilities
+
+![image](https://user-images.githubusercontent.com/38088886/111774710-c15dd480-88a7-11eb-82cb-7b344fe60845.png)
+
 
 
 
