@@ -5,3 +5,7 @@
 
 
 [Start Schema Design](https://learndatamodeling.com/blog/designing-star-schema/)
+
+# Metadata
+
+[Azure Synapse Analytics shared metadata tables](https://docs.microsoft.com/en-us/azure/synapse-analytics/metadata/table)
