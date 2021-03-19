@@ -39,3 +39,7 @@ CosmoDB partition
 
 [Partitioning Best practice for each Azure service](https://docs.microsoft.com/en-us/azure/architecture/best-practices/data-partitioning-strategies)
 
+# Sharding
+
+[Sharding](https://docs.microsoft.com/en-us/azure/architecture/patterns/sharding)
+
