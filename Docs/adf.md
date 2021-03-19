@@ -24,3 +24,7 @@
 # Slowly Changing Dimension using ADF
 
 [Slowly Changing Dimension using ADF](https://visualbi.com/blogs/microsoft/azure/designing-slowly-changing-dimension-scd-azure-data-factory-using-sql-server-temporal-tables/)
+
+# Delta load
+
+[Delta Load](https://docs.microsoft.com/en-us/azure/data-factory/tutorial-incremental-copy-overview)
