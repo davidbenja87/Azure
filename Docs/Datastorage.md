@@ -66,6 +66,11 @@ How to choose DataStorage?
 
 ![image](https://user-images.githubusercontent.com/38088886/111774710-c15dd480-88a7-11eb-82cb-7b344fe60845.png)
 
+## Security Capabilites
+
+![image](https://user-images.githubusercontent.com/38088886/111774896-fb2edb00-88a7-11eb-9d67-833bf599ba19.png)
+
+
 
 
 
