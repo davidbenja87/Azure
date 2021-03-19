@@ -13,3 +13,7 @@
 
 ![image](https://user-images.githubusercontent.com/38088886/111621952-817fea00-87e0-11eb-8f94-1258d4fda861.png)
 
+# File Partition by ADF
+
+[File partition by ADF](https://visualbi.com/blogs/microsoft/azure/file-partition-using-azure-data-factory/)
+
