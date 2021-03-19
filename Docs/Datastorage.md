@@ -56,6 +56,8 @@ How to choose DataStorage?
 
 ![image](https://user-images.githubusercontent.com/38088886/110893556-20db4380-82ee-11eb-8869-742edc8e1d0d.png)
 
+[More info on Choosing DataStorage](https://docs.microsoft.com/en-us/azure/architecture/data-guide/technology-choices/analytical-data-stores)
+
 
 
 
