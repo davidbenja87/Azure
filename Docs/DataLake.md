@@ -82,3 +82,8 @@ For those organisations starting their data lake journey, they will attempt to a
 # Table service - Guidelines for table service
 
 [Guidelines for Table design](https://docs.microsoft.com/en-us/azure/storage/tables/table-storage-design-guidelines)
+
+# Dynamic file prunning
+
+[Dynamic file prunning](https://docs.microsoft.com/en-us/azure/databricks/delta/optimizations/dynamic-file-pruning)
+
