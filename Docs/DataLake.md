@@ -74,3 +74,5 @@ For those organisations starting their data lake journey, they will attempt to a
 # Query Data in DataLake using DataExplorer
 
 [Query data in Azure Data Lake using Azure Data Explorer](https://docs.microsoft.com/en-us/azure/data-explorer/data-lake-query-data)
+
+[Query Azure Storage analytics logs in Azure Log Analytics](https://azure.microsoft.com/en-in/blog/query-azure-storage-analytics-logs-in-azure-log-analytics/)
