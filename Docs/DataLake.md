@@ -96,6 +96,8 @@ For those organisations starting their data lake journey, they will attempt to a
 
 without prunning
 
+Here in this query, we are joining small table with big table but filter by small table. Even though it filters small table with US & India value, we are scanning full big table here. Because we are not using location filter here which is the big table partitioning 
+
 ![image](https://user-images.githubusercontent.com/38088886/111736528-e89bae00-8875-11eb-9542-d24f58fae45f.png)
 
 ![image](https://user-images.githubusercontent.com/38088886/111736688-3d3f2900-8876-11eb-8383-cf54896b0bcb.png)
