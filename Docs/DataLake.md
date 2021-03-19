@@ -58,6 +58,8 @@ Read acccess Geo zone redudant stroage
 
 ![image](https://user-images.githubusercontent.com/38088886/111019951-66fdd900-83ba-11eb-868c-9299cad9eb20.png)
 
+# Design a Data Storage Structure
+
 # DataLake Architecthure planning
 
 For those organisations starting their data lake journey, they will attempt to answer these frequently asked questions:
