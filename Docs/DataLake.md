@@ -87,3 +87,19 @@ For those organisations starting their data lake journey, they will attempt to a
 
 [Dynamic file prunning](https://docs.microsoft.com/en-us/azure/databricks/delta/optimizations/dynamic-file-pruning)
 
+
+![image](https://user-images.githubusercontent.com/38088886/111736124-23511680-8875-11eb-99b9-f3c3cc2ff6d9.png)
+
+![image](https://user-images.githubusercontent.com/38088886/111736365-978bba00-8875-11eb-95b4-eb33c9b7988e.png)
+
+![image](https://user-images.githubusercontent.com/38088886/111736428-b8540f80-8875-11eb-85e5-3f231cfe5797.png)
+
+without prunning
+
+![image](https://user-images.githubusercontent.com/38088886/111736528-e89bae00-8875-11eb-9542-d24f58fae45f.png)
+
+![Uploading image.png…]()
+
+
+
+
