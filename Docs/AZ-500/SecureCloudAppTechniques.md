@@ -4,8 +4,10 @@ The aim is to protect data from unauthorised access. Here we follow zero trust m
 Nowdays, everyone is accessing either from home/anywhere/office, we need to verify always thier identity before grant them access to the services
 
 CIA
+
 Confidentiality
 * provide only least privillege access
+
 Integrity
 * protect the data from unauthorised change either in rest or in motion. Technique used here is hash algorithm. using it creates fingerprint for the data which about to send by sender. Receiver generates the hash and verify it against sender's hash to see if the data is stolen/modified.
 
