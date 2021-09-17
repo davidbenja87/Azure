@@ -15,3 +15,7 @@ Availabilty
 * should be always available either during natural disaster or Denial of service attack
 
 ![image](https://user-images.githubusercontent.com/38088886/133549956-1f742884-2655-4795-b43e-c30e1bf81fa9.png)
+
+
+![image](https://user-images.githubusercontent.com/38088886/133741600-0f7d9ac9-5071-40ca-8340-f8dd961f80e4.png)
+
