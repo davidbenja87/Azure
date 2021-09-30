@@ -35,4 +35,9 @@ Dynamic Group
 
 ![image](https://user-images.githubusercontent.com/38088886/135492120-2d95c6e5-efbd-4b7d-8374-08a910304728.png)
 
+Adding users dynamically into Dynamic group
+
+![image](https://user-images.githubusercontent.com/38088886/135492651-69802579-42fc-42bd-a34e-ff31bbec8b59.png)
+
+
 
