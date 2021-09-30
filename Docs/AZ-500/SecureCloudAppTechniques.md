@@ -27,3 +27,7 @@ https://cve.mitre.org/cve/search_cve_list.html
 
 ![image](https://user-images.githubusercontent.com/38088886/133916675-91954239-04fe-435a-aeb3-37bd8077c466.png)
 
+
+Azure AD
+![image](https://user-images.githubusercontent.com/38088886/135408855-68cce660-e240-436b-9250-701a910689c7.png)
+
