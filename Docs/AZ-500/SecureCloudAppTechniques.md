@@ -31,3 +31,8 @@ https://cve.mitre.org/cve/search_cve_list.html
 Azure AD
 ![image](https://user-images.githubusercontent.com/38088886/135408855-68cce660-e240-436b-9250-701a910689c7.png)
 
+Dynamic Group
+
+![image](https://user-images.githubusercontent.com/38088886/135492120-2d95c6e5-efbd-4b7d-8374-08a910304728.png)
+
+
