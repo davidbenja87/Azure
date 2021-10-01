@@ -109,6 +109,14 @@ Need to do api permission.
 
 ![image](https://user-images.githubusercontent.com/38088886/135569190-d8865707-18b9-4bea-9733-b04dbacbeb4f.png)
 
+Delegated permission works for user sign in kind of application
+
+Application permission works for application to sign in
+
+![image](https://user-images.githubusercontent.com/38088886/135569393-3a970bc3-4f56-4022-be51-436c049f5344.png)
+
+Grant admin permission will not require extra steps to authenticate
+
 
 
 
