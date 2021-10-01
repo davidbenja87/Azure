@@ -94,6 +94,19 @@ ONLY office 365 groups can be restored
 ![image](https://user-images.githubusercontent.com/38088886/135567348-49669419-d01a-41b1-b6c6-56699cb37766.png)
 
 
+Application Registration
+
+After registering api, client id and client secret.
+
+Need to do api permission.
+
+
+![image](https://user-images.githubusercontent.com/38088886/135569053-601c31a1-ef02-4198-b361-ef9718b17985.png)
+
+
+![image](https://user-images.githubusercontent.com/38088886/135569128-376eb24d-ef82-4ea3-a2dc-1bdf92f423e6.png)
+
+
 
 
 
