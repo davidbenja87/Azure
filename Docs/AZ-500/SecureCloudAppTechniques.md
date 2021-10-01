@@ -118,6 +118,9 @@ Application permission works for application to sign in
 Grant admin permission will not require extra steps to authenticate
 
 
+![image](https://user-images.githubusercontent.com/38088886/135569865-c175aec2-9ec9-4c56-97e5-20e344935e5c.png)
+
+
 
 
 
