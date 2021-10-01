@@ -63,6 +63,13 @@ Password reset
 
 ![image](https://user-images.githubusercontent.com/38088886/135564285-d94c75ca-54ed-47fa-8ea7-68c272fe37fc.png)
 
+Azure AD Group owner
+
+adding owner to the specific groups, gives the ability to add members to that group instead of Azure AD roles which gives full access to other groups as well.
+
+![image](https://user-images.githubusercontent.com/38088886/135564679-690245ba-df76-4603-9cf5-cf0aa8025db8.png)
+
+
 
 
 
