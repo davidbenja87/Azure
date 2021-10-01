@@ -39,5 +39,14 @@ Adding users dynamically into Dynamic group
 
 ![image](https://user-images.githubusercontent.com/38088886/135492651-69802579-42fc-42bd-a34e-ff31bbec8b59.png)
 
+Two types of role in Azure
+Azure AD roles - for mananging Active directory
+RBAC roles - for managing Azure resources
+
+In Azure AD roles, there are two types : Active & Eligible
+
+![image](https://user-images.githubusercontent.com/38088886/135563527-916fe958-02ab-4fad-8750-c7fec1e57a33.png)
+
+
 
 
