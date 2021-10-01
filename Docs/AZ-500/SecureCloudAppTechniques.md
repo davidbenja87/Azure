@@ -77,6 +77,10 @@ Invite guest users
 
 ![image](https://user-images.githubusercontent.com/38088886/135566136-6ecf7fd9-309b-44f5-8bb7-6e318a95cccd.png)
 
+Only with below role can send invitation if anyone in the org is not selected
+
+![image](https://user-images.githubusercontent.com/38088886/135566578-6d319d67-e576-421d-9911-4227ffe72337.png)
+
 
 
 
