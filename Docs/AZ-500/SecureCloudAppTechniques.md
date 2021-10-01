@@ -113,7 +113,9 @@ Delegated permission works for user sign in kind of application
 
 Application permission works for application to sign in
 
-![image](https://user-images.githubusercontent.com/38088886/135569393-3a970bc3-4f56-4022-be51-436c049f5344.png)
+![image](https://user-images.githubusercontent.com/38088886/135570008-2d16de14-96b1-4d98-94f9-cc92ef49d189.png)
+
+
 
 Grant admin permission will not require extra steps to authenticate
 
