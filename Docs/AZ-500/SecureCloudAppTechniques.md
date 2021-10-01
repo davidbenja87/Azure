@@ -82,6 +82,12 @@ Only with below role can send invitation if anyone in the org is not selected
 ![image](https://user-images.githubusercontent.com/38088886/135566578-6d319d67-e576-421d-9911-4227ffe72337.png)
 
 
+Restore deleted users/group
+
+![image](https://user-images.githubusercontent.com/38088886/135566768-37909d70-ffda-418a-b494-2019bf489608.png)
+
+
+
 
 
 
