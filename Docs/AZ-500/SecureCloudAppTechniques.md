@@ -59,6 +59,11 @@ Privilidged identity managment is for shorter period.. maximum 1 hour.
 ![image](https://user-images.githubusercontent.com/38088886/135563911-2a4a2103-0cd0-4fd1-ab61-c5ba289590dc.png)
 
 
+Password reset
+
+![image](https://user-images.githubusercontent.com/38088886/135564285-d94c75ca-54ed-47fa-8ea7-68c272fe37fc.png)
+
+
 
 
 
