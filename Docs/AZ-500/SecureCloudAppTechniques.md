@@ -89,6 +89,11 @@ Restore deleted users/group
 
 ![image](https://user-images.githubusercontent.com/38088886/135566935-ccfa6635-07ad-42ae-9800-6e460291b689.png)
 
+ONLY office 365 groups can be restored
+
+![image](https://user-images.githubusercontent.com/38088886/135567348-49669419-d01a-41b1-b6c6-56699cb37766.png)
+
+
 
 
 
