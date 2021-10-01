@@ -47,6 +47,14 @@ In Azure AD roles, there are two types : Active & Eligible
 
 ![image](https://user-images.githubusercontent.com/38088886/135563527-916fe958-02ab-4fad-8750-c7fec1e57a33.png)
 
+Active: They can perform operation since it is assigined.
+
+Eligible: They can't perform any operation until users takes up to privildeged identity managment
+
+![image](https://user-images.githubusercontent.com/38088886/135563784-d41b6a91-b66a-47bf-ab92-a1cd88851070.png)
+
+
+
 
 
 
