@@ -54,6 +54,10 @@ Eligible: They can't perform any operation until users takes up to privildeged i
 ![image](https://user-images.githubusercontent.com/38088886/135563784-d41b6a91-b66a-47bf-ab92-a1cd88851070.png)
 
 
+Privilidged identity managment is for shorter period.. maximum 1 hour.
+
+![image](https://user-images.githubusercontent.com/38088886/135563911-2a4a2103-0cd0-4fd1-ab61-c5ba289590dc.png)
+
 
 
 
