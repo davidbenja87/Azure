@@ -70,6 +70,12 @@ adding owner to the specific groups, gives the ability to add members to that gr
 ![image](https://user-images.githubusercontent.com/38088886/135564679-690245ba-df76-4603-9cf5-cf0aa8025db8.png)
 
 
+Invite guest users
+
+![image](https://user-images.githubusercontent.com/38088886/135566011-01c79144-b945-4be4-963c-53a4e198597a.png)
+
+
+
 
 
 
