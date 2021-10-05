@@ -127,7 +127,7 @@ Azure Active Directory sign in and audit logs:
 ![image](https://user-images.githubusercontent.com/38088886/135961738-334229fc-4d11-49fb-9c9d-d5d324bb302b.png)
 
 
-Application level permission
+**Application level permission**
 
 ![image](https://user-images.githubusercontent.com/38088886/135961986-acfe52a7-957a-49a8-9bfe-4e592b920755.png)
 
@@ -135,6 +135,22 @@ Application level permission
 ![image](https://user-images.githubusercontent.com/38088886/135962152-12bf0edb-f2f9-4022-bdc2-7f55d7573896.png)
 
 ![image](https://user-images.githubusercontent.com/38088886/135962225-e00257d8-88c0-4ff9-b8a5-896891cbf0e1.png)
+
+
+Assign owner to the existing application so that they can manage all aspects of the application
+
+![image](https://user-images.githubusercontent.com/38088886/135962334-ad2ed0cc-90fa-409d-83f4-51e9bad7c8e1.png)
+
+![image](https://user-images.githubusercontent.com/38088886/135962437-d4b3a3b0-8c30-4b0d-8324-adc856564273.png)
+
+![image](https://user-images.githubusercontent.com/38088886/135962621-8786db97-5bf3-40b0-b83b-9a61e2b08925.png)
+
+![image](https://user-images.githubusercontent.com/38088886/135962685-0d176cf6-cc1d-4ef4-9038-9212f12a4f85.png)
+
+![image](https://user-images.githubusercontent.com/38088886/135962795-b6bfab52-e9ed-4ae5-b521-dec32560bdad.png)
+
+
+
 
 
 
