@@ -122,6 +122,11 @@ Grant admin permission will not require extra steps to authenticate
 
 ![image](https://user-images.githubusercontent.com/38088886/135569865-c175aec2-9ec9-4c56-97e5-20e344935e5c.png)
 
+Azure Active Directory sign in and audit logs:
+
+![image](https://user-images.githubusercontent.com/38088886/135961738-334229fc-4d11-49fb-9c9d-d5d324bb302b.png)
+
+
 
 
 
