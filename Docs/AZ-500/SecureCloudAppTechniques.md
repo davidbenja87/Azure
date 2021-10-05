@@ -127,6 +127,11 @@ Azure Active Directory sign in and audit logs:
 ![image](https://user-images.githubusercontent.com/38088886/135961738-334229fc-4d11-49fb-9c9d-d5d324bb302b.png)
 
 
+Application level permission
+
+![image](https://user-images.githubusercontent.com/38088886/135961986-acfe52a7-957a-49a8-9bfe-4e592b920755.png)
+
+
 
 
 
