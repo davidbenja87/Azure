@@ -150,10 +150,9 @@ Assign owner to the existing application so that they can manage all aspects of 
 ![image](https://user-images.githubusercontent.com/38088886/135962795-b6bfab52-e9ed-4ae5-b521-dec32560bdad.png)
 
 Multi Factor Authentication(MFA)
+![image](https://user-images.githubusercontent.com/38088886/136321972-cb16b2d5-c0ea-4304-b586-0ed8330630d1.png)
 
-![image](https://user-images.githubusercontent.com/38088886/135965105-c496ee6e-32d0-437a-a534-033fdacccf32.png)
 
-![image](https://user-images.githubusercontent.com/38088886/135965335-966e0f33-68f0-43aa-9195-cae72fcf6b1a.png)
 
 
 
