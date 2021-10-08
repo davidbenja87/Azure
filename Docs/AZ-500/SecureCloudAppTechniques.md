@@ -165,6 +165,13 @@ Condition access policy - Report only
 ![image](https://user-images.githubusercontent.com/38088886/136496818-2956af19-475d-4e72-abf5-b8287c00c982.png)
 
 
+Condition access policy - Conditions
+![image](https://user-images.githubusercontent.com/38088886/136497364-07a414e0-6f83-4037-98e8-4d186edff77d.png)
+
+Condition access policy - Location
+
+
+
 
 
 
