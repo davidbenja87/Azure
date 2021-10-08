@@ -156,6 +156,9 @@ Condition access policy
 
 ![image](https://user-images.githubusercontent.com/38088886/136495098-4a093f19-75e4-48ae-bca4-5ae68aa3c402.png)
 
+![image](https://user-images.githubusercontent.com/38088886/136495745-fc2e61b7-8db4-4768-91b3-0d7e09be6b7b.png)
+
+
 
 
 
