@@ -176,13 +176,58 @@ Condition access policy - multiple policy
 
 Policy of block will take precedence than Grant access.
 
-Azure AD ID protection
+Azure AD Identity protection
+* This tool captures user sign in from atypical location/anonymous ip address/malware included in the url...
+
+Notes on Azure AD Identity Protection
+Azure Active Directory Identity Protection
+
+
+This tool can be used by organizations to accomplish the following
+
+* Automate the detection of any identity-based risks. These risks can also be remediated.
+
+* It can also be used to investigate any risks to using data in the portal
+
+* It can be used to expose risk detection data to third-party utilities for further analysis
+
+The three key reports available for risk investigation are
+
+* Risky users
+
+* Risky sign-ins
+
+* Risk detections
+
+You need to have Azure AD Premium P2 licences to harness all the capabilities of Azure AD Identity Protection.
+
+The below snapshot from the Microsoft documentation details the features of the product for each licence type
+
+
+When it comes to Role-based access control
+
+* Global Administrator - Here the role allows for full access to Identity Protection
+
+* Security Administrator - Here the role allows for full access to Identity Protection, but the user can't reset the password for a user
+
+* Security Operator - Here the role allows to view the Identity protection reports. But the role does not allow to configure or change policies, reset the password , or configure alerts
 
 
 
 
+The tool can detect
 
+**Leaked credentials** - If a user's credentials have fallen into the wrong hands and leaked on untrustworthy sites , then this can be detected by the tool.
 
+**Sign-ins from anonymous IP addresses** - These are user sign-ins that have occurred from an IP address that has been identified as an anonymous proxy IP address.
+
+**Impossible travel from atypical locations** - This happens when a user sign-in occurs from geographically distant locations, where at least one of the locations may also be atypical for the user, given past behavior.
+
+**Sign-in from unfamiliar locations** - This processes uses the prior sign-ins of the user to detect unusual locations for new sign-ins from the user.
+
+**Sign-ins from infected devices** - This identifies any sign-ins that happens from devices infected with malware,
+
+**Sign-ins from IP addresses with suspicious activity** - This identifies the IP addresses from which a high number of failed sign-in attempts happens across multiple user accounts over a short period of time.
 
 
 
