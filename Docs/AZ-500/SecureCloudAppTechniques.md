@@ -162,6 +162,9 @@ Condition access policy - Report only
 
 ![image](https://user-images.githubusercontent.com/38088886/136496473-65ab55b7-758c-4a4e-8ddd-9215835aedce.png)
 
+![image](https://user-images.githubusercontent.com/38088886/136496818-2956af19-475d-4e72-abf5-b8287c00c982.png)
+
+
 
 
 
