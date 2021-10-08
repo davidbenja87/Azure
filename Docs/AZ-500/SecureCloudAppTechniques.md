@@ -152,6 +152,11 @@ Assign owner to the existing application so that they can manage all aspects of 
 Multi Factor Authentication(MFA)
 ![image](https://user-images.githubusercontent.com/38088886/136321972-cb16b2d5-c0ea-4304-b586-0ed8330630d1.png)
 
+Condition access policy
+
+![image](https://user-images.githubusercontent.com/38088886/136495098-4a093f19-75e4-48ae-bca4-5ae68aa3c402.png)
+
+
 
 
 
