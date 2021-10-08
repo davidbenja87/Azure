@@ -170,6 +170,16 @@ Condition access policy - Conditions
 
 Condition access policy - Location
 
+![image](https://user-images.githubusercontent.com/38088886/136497987-7fa3dabe-5e8f-4e06-9fb2-812f4682373b.png)
+
+Condition access policy - multiple policy
+
+Policy of block will take precedence than Grant access.
+
+Azure AD ID protection
+
+
+
 
 
 
