@@ -267,6 +267,55 @@ Finally give the name for the review
 
 Finalising Review
 
+will receive an email to perform the access review
+
+![image](https://user-images.githubusercontent.com/38088886/136895551-b75d8283-df62-4705-864a-363407744a06.png)
+
+Click the start review which will navigate to the access review page
+
+![image](https://user-images.githubusercontent.com/38088886/136895639-69bdef75-bf6a-41a2-a218-b94d4fa36df8.png)
+
+Approve/Deny
+
+![image](https://user-images.githubusercontent.com/38088886/136895729-f69b9bb3-8821-45b4-acc1-d7aa9c21308f.png)
+
+Decission status
+
+![image](https://user-images.githubusercontent.com/38088886/136895774-3257126d-e5b3-4743-bcc3-cf158ce950e7.png)
+
+Go to Identity Governance and then access review
+
+![image](https://user-images.githubusercontent.com/38088886/136895853-c8cfd125-f624-480e-85e3-63d2563feacc.png)
+
+Stop the access review once review is no longer required
+
+![image](https://user-images.githubusercontent.com/38088886/136895922-0daf60ab-76d9-4581-bf76-2ab3e5f9693f.png)
+
+
+If the reviewer do not respond for 10 days then we can set up the below
+
+![image](https://user-images.githubusercontent.com/38088886/136896081-ec334fa4-dee5-40b0-9b38-43e10b61cfa0.png)
+
+Auto apply the access review
+
+![image](https://user-images.githubusercontent.com/38088886/136896173-d7b027db-7374-4354-a50e-0edbb88a9835.png)
+
+Now we have only one member.. earlier we added two but we denied one member
+
+![image](https://user-images.githubusercontent.com/38088886/136896225-b2547a3b-f80d-4f87-a02a-3340b83b01a5.png)
+
+
+Azure AD priveledged identity Management
+
+This is required when Global admin wants to give shorter period of priveledged access to resource like creating VM,Deleting SQL DB etc without manually required to revoke the access after ther period.
+
+![image](https://user-images.githubusercontent.com/38088886/136896417-5482ab77-5fb7-49af-9606-757d04b8cd07.png)
+
+
+![image](https://user-images.githubusercontent.com/38088886/136896733-edaea853-ab95-4092-ba6e-c168ca6caf5d.png)
+
+
+
 
 
 
