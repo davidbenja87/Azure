@@ -230,6 +230,46 @@ The tool can detect
 **Sign-ins from IP addresses with suspicious activity** - This identifies the IP addresses from which a high number of failed sign-in attempts happens across multiple user accounts over a short period of time.
 
 
+Access Reivew
+This will help how user has been utilised the assigned group/resource...
+
+Go to Identity Governance and set up access reviews
+![image](https://user-images.githubusercontent.com/38088886/136894586-cd75bb83-d39d-4e58-b1e4-5b06ad345832.png)
+
+What to review Groups or Applicatoins?
+
+![image](https://user-images.githubusercontent.com/38088886/136894679-60d41930-197c-4fea-9e2e-d1923491caca.png)
+
+Select which team/ group
+
+![image](https://user-images.githubusercontent.com/38088886/136894767-9d83c474-ccef-42e6-90ec-10de24278aca.png)
+
+Select review scope
+
+![image](https://user-images.githubusercontent.com/38088886/136894798-e4f91930-0715-4d6d-aeb8-0c59ecfa7b0f.png)
+
+who is going to review
+
+This reviewer needs to have Azure AD premium licence... Global and user admin can also perform the same without premium licence
+
+![image](https://user-images.githubusercontent.com/38088886/136894925-1f353008-1edd-43e0-85c7-582234c3d6ae.png)
+
+Select recurrence of the review
+![image](https://user-images.githubusercontent.com/38088886/136895109-f89706d9-9408-472e-8723-fbd4513b23bf.png)
+
+What needs to review
+
+![image](https://user-images.githubusercontent.com/38088886/136895237-f9171292-4847-425d-bcd4-6a783abe6562.png)
+
+Finally give the name for the review
+
+![image](https://user-images.githubusercontent.com/38088886/136895339-061db6e4-10bd-46f8-97b4-d14ea0b5d5a3.png)
+
+Finalising Review
+
+
+
+
 
 
 
